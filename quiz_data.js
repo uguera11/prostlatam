@@ -1,7 +1,7 @@
 window.QUIZ_DATA = {
     "id":  63157,
     "hash":  "6zgcDb",
-    "title":  "Pr\u00f3stata - P\u00e1gina Blanca",
+    "title":  "Prostata - Pagina White",
     "slug":  "prostata-6zgcDb",
     "description":  "",
     "domain":  "cuidarmaisvoce.com",
@@ -21,7 +21,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch2 class=\"ql-align-center\"\u003e\u003cstrong style=\"background-color: rgb(9, 9, 11); color: rgb(255, 255, 255);\"\u003eURGENTE:\u003c/strong\u003e\u003cstrong\u003e \u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003e\u00a1TRUCO NATURAL CASERO DE 14 D\u00cdAS EST\u00c1 DESINFLAMANDO LA PR\u00d3STATA\u003c/strong\u003e\u003cstrong\u003e Y ELIMINANDO LA HPB NATURALMENTE!\u003c/strong\u003e\u003c/h2\u003e\u003cp class=\"ql-align-center\"\u003eLos hombres est\u00e1n volviendo a \u003cspan style=\"color: rgb(22, 163, 74);\"\u003eorinar con fuerza, durmiendo toda la noche de corrido sin levantarse y recuperando su rendimiento en la cama\u003c/span\u003e. Todo gracias a una simple \u003cspan style=\"color: rgb(22, 163, 74);\"\u003ereceta natural que elimina el par\u00e1sito\u003c/span\u003e escondido detr\u00e1s del agrandamiento de la pr\u00f3stata.\u003c/p\u003e",
+                                                         "text":  "\u003ch2 class=\"ql-align-center\"\u003e\u003cstrong style=\"background-color: rgb(9, 9, 11); color: rgb(255, 255, 255);\"\u003eURGENTE:\u003c/strong\u003e\u003cstrong\u003e \u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003eTRUQUE NATURAL CASEIRO DE 14 DIAS EST\u00c1 DESINCHANDO A PROSTATA\u003c/strong\u003e\u003cstrong\u003e E ELIMINANDO A HPB NATURALMENTE!\u003c/strong\u003e\u003c/h2\u003e\u003cp class=\"ql-align-center\"\u003eHomens est\u00e3o voltando a \u003cspan style=\"color: rgb(22, 163, 74);\"\u003eurinar com for\u00e7a, dormindo a noite inteira sem levantar e recuperando o desempenho na cama\u003c/span\u003e. Tudo gra\u00e7as a uma simples \u003cspan style=\"color: rgb(22, 163, 74);\"\u003ereceita natural que elimina o parasita\u003c/span\u003e escondido por tr\u00e1s do aumento da pr\u00f3stata.\u003c/p\u003e",
                                                          "id":  "MCem9p",
                                                          "name":  "fMlaNe"
                                                      },
@@ -37,7 +37,7 @@ window.QUIZ_DATA = {
                                                     },
                                          "content":  {
                                                          "image":  {
-                                                                       "src":  "images/antes_despues.jpg",
+                                                                       "src":  "https://media.inlead.cloud/uploads/23849/2025-10-23/dC0Db-prostata-normal-x-prostata-aumentada.webp",
                                                                        "type":  "image",
                                                                        "width":  1094,
                                                                        "height":  1094
@@ -78,7 +78,7 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "name":  "8rRcXX",
                                                          "type":  "next",
-                                                         "label":  "\u00a1YO TAMBI\u00c9N QUIERO APRENDER!",
+                                                         "label":  "QUERO APRENDER TAMB\u00c9M !",
                                                          "destination":  "Se8zc7",
                                                          "pulse":  false,
                                                          "target":  false,
@@ -122,7 +122,7 @@ window.QUIZ_DATA = {
                                                     ],
                                          "content":  {
                                                          "image":  {
-                                                                       "src":  "images/sintomas.jpg",
+                                                                       "src":  "https://media.inlead.cloud/uploads/23849/2025-10-23/a8rWQ-sente-sintomas-mais-de-2-meses-em-prostata.webp",
                                                                        "type":  "image",
                                                                        "width":  1800,
                                                                        "height":  1584
@@ -145,7 +145,7 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "name":  "MBPtOv",
                                                          "type":  "next",
-                                                         "label":  "Siento m\u00e1s de 1 \ud83d\ude13",
+                                                         "label":  "Sinto mais de 1 \ud83d\ude13",
                                                          "destination":  "dN7Tjl",
                                                          "pulse":  false,
                                                          "target":  false,
@@ -180,7 +180,7 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "name":  "yEpTK8",
                                                          "type":  "next",
-                                                         "label":  "Siento 2 o m\u00e1s \ud83d\ude2c",
+                                                         "label":  "Sinto 2 ou mais \ud83d\ude2c",
                                                          "destination":  "dN7Tjl",
                                                          "pulse":  false,
                                                          "target":  false,
@@ -208,7 +208,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong style=\"background-color: transparent;\"\u003e\u00bfCu\u00e1l es su edad?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003eCon el avance de la edad, la pr\u00f3stata tiende a crecer, un proceso natural que conduce a la Hiperplasia Prost\u00e1tica Benigna (HPB). As\u00ed como la menopausia marca la ca\u00edda de la fertilidad femenina, el agrandamiento de la pr\u00f3stata puede comprometer la funci\u00f3n urinaria y sexual masculina, incluso en hombres que nunca antes han tenido problemas de salud.\u003c/p\u003e",
+                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong style=\"background-color: transparent;\"\u003eQual \u00e9 a sua idade?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003eCom o avan\u00e7o da idade, a pr\u00f3stata tende a crescer, um processo natural que leva \u00e0 Hiperplasia Prost\u00e1tica Benigna (HPB). Assim como a menopausa marca a queda da fertilidade feminina, o aumento da pr\u00f3stata pode comprometer a fun\u00e7\u00e3o urin\u00e1ria e sexual masculina, mesmo em homens que nunca tiveram problemas de sa\u00fade antes.\u003c/p\u003e",
                                                          "id":  "InDTeU",
                                                          "name":  "uExhZQ"
                                                      }
@@ -243,7 +243,7 @@ window.QUIZ_DATA = {
                                                                                            "width":  625,
                                                                                            "height":  688
                                                                                        },
-                                                                             "label":  "\u003cp\u003e\u003cstrong\u003eHasta 40 a\u00f1os\u0026nbsp;\u003c/strong\u003e\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003e\u003cstrong\u003eAt\u00e9 40 anos\u0026nbsp;\u003c/strong\u003e\u003c/p\u003e",
                                                                              "destination":  "Y9fgLg",
                                                                              "chosen":  false,
                                                                              "selected":  false
@@ -256,7 +256,7 @@ window.QUIZ_DATA = {
                                                                                            "width":  625,
                                                                                            "height":  688
                                                                                        },
-                                                                             "label":  "\u003cp\u003e\u003cstrong\u003eDe 41 a 50 a\u00f1os\u003c/strong\u003e\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003e\u003cstrong\u003e41 anos a 50 anos\u003c/strong\u003e\u003c/p\u003e",
                                                                              "destination":  "Y9fgLg",
                                                                              "chosen":  false,
                                                                              "selected":  false
@@ -269,14 +269,14 @@ window.QUIZ_DATA = {
                                                                                            "width":  625,
                                                                                            "height":  688
                                                                                        },
-                                                                             "label":  "\u003cp\u003e\u003cstrong\u003eDe 51 a 60 a\u00f1os\u003c/strong\u003e\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003e\u003cstrong\u003e51 anos a 60 anos\u003c/strong\u003e\u003c/p\u003e",
                                                                              "destination":  "Y9fgLg",
                                                                              "chosen":  false,
                                                                              "selected":  false
                                                                          },
                                                                          {
                                                                              "id":  "zTu1QW",
-                                                                             "label":  "\u003cp\u003e\u003cstrong\u003eM\u00e1s de 61 a\u00f1os\u003c/strong\u003e\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003e\u003cstrong\u003eMais de 61 anos\u003c/strong\u003e\u003c/p\u003e",
                                                                              "image":  {
                                                                                            "type":  "image",
                                                                                            "src":  "https://media.inlead.cloud/uploads/23849/2025-10-23/QuVCf-homem-com-mais-de-60-anos.webp",
@@ -312,7 +312,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u00bfYa ha sido diagnosticado con HPB (Hiperplasia Prost\u00e1tica Benigna)?\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003ePor favor, responda con atenci\u00f3n \u2014 esta informaci\u00f3n es esencial para nuestro an\u00e1lisis.\u003c/p\u003e",
+                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003eVoc\u00ea j\u00e1 foi diagnosticado com HPB (Hiperplasia Prost\u00e1tica Benigna)?\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003ePor favor, responda com aten\u00e7\u00e3o \u2014 essa informa\u00e7\u00e3o \u00e9 essencial para a nossa an\u00e1lise.\u003c/p\u003e",
                                                          "id":  "sqFxYH",
                                                          "name":  "dufsHG"
                                                      }
@@ -345,7 +345,7 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "name":  "qCtUP4",
                                                          "type":  "next",
-                                                         "label":  "\ud83d\ude4f S\u00ed, ya he sido diagnosticado.",
+                                                         "label":  "\ud83d\ude4f Sim, ja fui diagnosticado.",
                                                          "destination":  "ag4P7L",
                                                          "pulse":  false,
                                                          "target":  false,
@@ -380,7 +380,7 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "name":  "AJee4s",
                                                          "type":  "next",
-                                                         "label":  "\u231bNo, pero tengo sospechas.",
+                                                         "label":  "\u231bN\u00e3o, mas estou desconfiado.",
                                                          "destination":  "Qk17ue",
                                                          "pulse":  false,
                                                          "target":  false,
@@ -408,7 +408,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003e\u00bfHace cu\u00e1nto tiempo recibi\u00f3 el diagn\u00f3stico de HPB?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003eEsta informaci\u00f3n es esencial para un an\u00e1lisis m\u00e1s preciso de su condici\u00f3n.\u003c/p\u003e",
+                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eH\u00e1 quanto tempo voc\u00ea recebeu o diagn\u00f3stico de HPB?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003eEssa informa\u00e7\u00e3o \u00e9 essencial para uma an\u00e1lise mais precisa da sua condi\u00e7\u00e3o.\u003c/p\u003e",
                                                          "id":  "fNOkwD",
                                                          "name":  "QOfRk9"
                                                      }
@@ -452,7 +452,7 @@ window.QUIZ_DATA = {
                                                                                            "type":  "image",
                                                                                            "src":  null
                                                                                        },
-                                                                             "label":  "\u003cp\u003e\u2705 \u003cstrong\u003eEntre 6 meses y 1 a\u00f1o\u003c/strong\u003e\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003e\u2705 \u003cstrong\u003eEntre 6 meses e 1 ano\u003c/strong\u003e\u003c/p\u003e",
                                                                              "destination":  "lwAq3f",
                                                                              "chosen":  false,
                                                                              "selected":  false
@@ -463,14 +463,14 @@ window.QUIZ_DATA = {
                                                                                            "type":  "image",
                                                                                            "src":  null
                                                                                        },
-                                                                             "label":  "\u003cp\u003e\u2705 \u003cstrong\u003eEntre 1 y 3 a\u00f1os\u003c/strong\u003e\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003e\u2705 \u003cstrong\u003eEntre 1 e 3 anos\u003c/strong\u003e\u003c/p\u003e",
                                                                              "destination":  "lwAq3f",
                                                                              "chosen":  false,
                                                                              "selected":  false
                                                                          },
                                                                          {
                                                                              "id":  "ObQBuD",
-                                                                             "label":  "\u003cp\u003e\u2705 \u003cstrong\u003eM\u00e1s de 3 a\u00f1os\u003c/strong\u003e\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003e\u2705 \u003cstrong\u003eMais de 3 anos\u003c/strong\u003e\u003c/p\u003e",
                                                                              "chosen":  false,
                                                                              "selected":  false,
                                                                              "destination":  "lwAq3f"
@@ -501,7 +501,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003e\u00bfHace cu\u00e1nto tempo sospecha que podr\u00eda ter HPB?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003e \u003c/strong\u003e\u003cspan style=\"color: rgb(107, 114, 128);\"\u003eEsta informaci\u00f3n es esencial para un an\u00e1lisis m\u00e1s preciso de su condici\u00f3n.\u003c/span\u003e\u003c/p\u003e",
+                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eH\u00e1 quanto tempo voc\u00ea desconfia que pode ter HPB?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003e \u003c/strong\u003e\u003cspan style=\"color: rgb(107, 114, 128);\"\u003eEssa informa\u00e7\u00e3o \u00e9 essencial para uma an\u00e1lise mais precisa da sua condi\u00e7\u00e3o.\u003c/span\u003e\u003c/p\u003e",
                                                          "id":  "fNOkwD",
                                                          "name":  "yzZLhn"
                                                      }
@@ -545,7 +545,7 @@ window.QUIZ_DATA = {
                                                                                            "type":  "image",
                                                                                            "src":  null
                                                                                        },
-                                                                             "label":  "\u003cp\u003e\u2705 \u003cstrong\u003eEntre 6 meses y 1 a\u00f1o\u003c/strong\u003e\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003e\u2705 \u003cstrong\u003eEntre 6 meses e 1 ano\u003c/strong\u003e\u003c/p\u003e",
                                                                              "destination":  "lwAq3f",
                                                                              "chosen":  false,
                                                                              "selected":  false
@@ -556,14 +556,14 @@ window.QUIZ_DATA = {
                                                                                            "type":  "image",
                                                                                            "src":  null
                                                                                        },
-                                                                             "label":  "\u003cp\u003e\u2705 \u003cstrong\u003eEntre 1 y 3 a\u00f1os\u003c/strong\u003e\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003e\u2705 \u003cstrong\u003eEntre 1 e 3 anos\u003c/strong\u003e\u003c/p\u003e",
                                                                              "destination":  "lwAq3f",
                                                                              "chosen":  false,
                                                                              "selected":  false
                                                                          },
                                                                          {
                                                                              "id":  "4GtVRb",
-                                                                             "label":  "\u003cp\u003e\u2705 \u003cstrong\u003eM\u00e1s de 3 a\u00f1os\u003c/strong\u003e\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003e\u2705 \u003cstrong\u003eMais de 3 anos\u003c/strong\u003e\u003c/p\u003e",
                                                                              "chosen":  false,
                                                                              "selected":  false,
                                                                              "destination":  "lwAq3f"
@@ -593,7 +593,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong\u003e\u00bfTiene alguna de estas condiciones?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003eEstas pueden influir directamente en el agrandamiento de su pr\u00f3stata.\u003c/p\u003e\u003cp class=\"ql-align-center\"\u003ePara una orientaci\u00f3n m\u00e1s precisa, responda a la pregunta seleccionando una o m\u00e1s opciones:\u003c/p\u003e",
+                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong\u003eVoc\u00ea tem alguma dessas condi\u00e7\u00f5es?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003eElas podem influenciar diretamente o crescimento da sua pr\u00f3stata.\u003c/p\u003e\u003cp class=\"ql-align-center\"\u003ePara uma orienta\u00e7\u00e3o mais precisa, responda \u00e0 pergunta abaixo, selecione uma ou mais:\u003c/p\u003e",
                                                          "id":  "QRlWp9",
                                                          "name":  "oWj8bZ"
                                                      }
@@ -642,7 +642,7 @@ window.QUIZ_DATA = {
                                                                                            "width":  625,
                                                                                            "height":  688
                                                                                        },
-                                                                             "label":  "\u003cp\u003eTengo obesidad o sobrepeso\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003eTenho obesidade ou sobrepeso\u003c/p\u003e",
                                                                              "destination":  "next",
                                                                              "chosen":  false,
                                                                              "selected":  false
@@ -655,7 +655,7 @@ window.QUIZ_DATA = {
                                                                                            "width":  625,
                                                                                            "height":  688
                                                                                        },
-                                                                             "label":  "\u003cp\u003eTengo diabetes tipo 2\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003eTenho diabetes tipo 2\u003c/p\u003e",
                                                                              "destination":  "next",
                                                                              "chosen":  false,
                                                                              "selected":  false
@@ -668,14 +668,14 @@ window.QUIZ_DATA = {
                                                                                            "width":  625,
                                                                                            "height":  688
                                                                                        },
-                                                                             "label":  "\u003cp\u003eTengo trastornos hormonales\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003eTenho dist\u00farbios hormonais\u003c/p\u003e",
                                                                              "destination":  "next",
                                                                              "chosen":  false,
                                                                              "selected":  false
                                                                          },
                                                                          {
                                                                              "id":  "nunLwX",
-                                                                             "label":  "\u003cp\u003eTengo presi\u00f3n arterial alta (hipertensi\u00f3n)\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003eTenho press\u00e3o alta (hipertens\u00e3o)\u003c/p\u003e",
                                                                              "image":  {
                                                                                            "type":  "image",
                                                                                            "src":  "https://media.inlead.cloud/uploads/23849/2025-06-02/vxwn7-14.png",
@@ -688,7 +688,7 @@ window.QUIZ_DATA = {
                                                                          },
                                                                          {
                                                                              "id":  "cBkLTs",
-                                                                             "label":  "\u003cp\u003eNo tengo ninguna de estas condiciones\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003eN\u00e3o tenho nenhuma dessas condi\u00e7\u00f5es\u003c/p\u003e",
                                                                              "chosen":  false,
                                                                              "selected":  false,
                                                                              "image":  {
@@ -759,7 +759,7 @@ window.QUIZ_DATA = {
                                                         "basis":  100
                                                     },
                                          "content":  {
-                                                         "text":  "\u003ch2 class=\"ql-align-center\"\u003e\u003cstrong\u003e\u00bfYa se ha\u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003e\u0026nbsp;desparasitado\u0026nbsp;\u003c/strong\u003e\u003cstrong\u003ede alguna manera?\u003c/strong\u003e\u003c/h2\u003e\u003cp class=\"ql-align-center\"\u003eYa sea con medicamentos o m\u00e9todos naturales.\u003c/p\u003e",
+                                                         "text":  "\u003ch2 class=\"ql-align-center\"\u003e\u003cstrong\u003eVoc\u00ea j\u00e1\u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003e\u0026nbsp;Desparasitou\u0026nbsp;\u003c/strong\u003e\u003cstrong\u003ede alguma maneira?\u003c/strong\u003e\u003c/h2\u003e\u003cp class=\"ql-align-center\"\u003eUtilizando rem\u00e9dios ou formas naturais.\u003c/p\u003e",
                                                          "id":  "CZpdVb",
                                                          "name":  "rgvl3u"
                                                      }
@@ -790,7 +790,7 @@ window.QUIZ_DATA = {
                                                                                            "type":  "emoji",
                                                                                            "src":  "\ud83d\ude10"
                                                                                        },
-                                                                             "label":  "\u003cp\u003e\u003cstrong\u003eNo, yo nunca me he desparasitado.\u003c/strong\u003e\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003e\u003cstrong\u003eN\u00e3o, eu nunca desparasitei.\u003c/strong\u003e\u003c/p\u003e",
                                                                              "destination":  "6ev2HB",
                                                                              "chosen":  false,
                                                                              "selected":  false
@@ -801,7 +801,7 @@ window.QUIZ_DATA = {
                                                                                            "type":  "emoji",
                                                                                            "src":  "\ud83d\ude01"
                                                                                        },
-                                                                             "label":  "\u003cp\u003e\u003cstrong\u003eS\u00ed, yo ya me he desparasitado.\u003c/strong\u003e\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003e\u003cstrong\u003eSim, eu j\u00e1 desparasitei.\u003c/strong\u003e\u003c/p\u003e",
                                                                              "destination":  "6ev2HB",
                                                                              "chosen":  false,
                                                                              "selected":  false
@@ -836,7 +836,7 @@ window.QUIZ_DATA = {
                                                         "verticalAlign":  "self-auto"
                                                     },
                                          "content":  {
-                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(220, 38, 38);\"\u003eSi nunca se ha hecho una Desparasitaci\u00f3n Natural, cuidado:\u003c/strong\u003e\u003cstrong\u003e los par\u00e1sitos pueden multiplicarse en su cuerpo y alcanzar \u00f3rganos vitales como la pr\u00f3stata, cerebro, coraz\u00f3n y pulmones. No ignore este riesgo,\u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003e\u0026nbsp;\u00a1es esencial desparasitarse al menos una vez al a\u00f1o!\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003e\u003cu\u003eVea esta noticia\u0026nbsp;\ud83d\udc47\u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e",
+                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(220, 38, 38);\"\u003eSe voc\u00ea nunca fez uma Desparasita\u00e7\u00e3o Natural, cuidado:\u003c/strong\u003e\u003cstrong\u003e os vermes podem se multiplicar no seu corpo e alcan\u00e7ar \u00f3rg\u00e3os vitais como pr\u00f3stata, c\u00e9rebro, cora\u00e7\u00e3o e pulm\u00f5es. N\u00e3o ignore esse risco,\u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003e\u0026nbsp;\u00e9 essencial desparasitar pelo menos uma vez ao ano!\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003e\u003cu\u003eVeja essa Not\u00edcia do G1\u0026nbsp;\ud83d\udc47\u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e",
                                                          "id":  "xRSNh5",
                                                          "name":  "QBkYrx"
                                                      }
@@ -851,7 +851,7 @@ window.QUIZ_DATA = {
                                                     ],
                                          "content":  {
                                                          "image":  {
-                                                                       "src":  "images/noticia.jpg",
+                                                                       "src":  "https://media.inlead.cloud/uploads/23849/2025-10-23/6NKlc-homem-de-42-anos-descobre-parasita.webp",
                                                                        "type":  "image",
                                                                        "width":  1313,
                                                                        "height":  2084
@@ -888,7 +888,7 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "name":  "ExvIMc",
                                                          "type":  "next",
-                                                         "label":  "\u00a1Continuar!",
+                                                         "label":  "Continuar !",
                                                          "destination":  "0MIvZB",
                                                          "pulse":  false,
                                                          "target":  false,
@@ -920,7 +920,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong\u003e\u00bfEs consciente de que\u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003e la falta de cuidado en este asunto \u003c/strong\u003e\u003cstrong\u003epuede empeorar su pr\u00f3stata y dejar secuelas que podr\u00edan ser irreversibles?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(107, 114, 128);\"\u003ePor favor, sea sincero.\u003c/span\u003e\u003c/p\u003e",
+                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong\u003eVoc\u00ea tem ci\u00eancia que\u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003e a falta de cuidados com esse assunto \u003c/strong\u003e\u003cstrong\u003epode piorar sua prostata e deixar sequelas que podem ser irrevers\u00edveis?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(107, 114, 128);\"\u003ePor favor, seja sincero.\u003c/span\u003e\u003c/p\u003e",
                                                          "id":  "qeBYzL",
                                                          "name":  "wtrpMs"
                                                      }
@@ -939,7 +939,7 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "name":  "NqAkN1",
                                                          "type":  "next",
-                                                         "label":  "\ud83d\ude14 S\u00ed, s\u00e9 lo grave que es tener par\u00e1sitos habitando en mi intestino",
+                                                         "label":  "\ud83d\ude14 Sim, eu sei da gravidade que \u00e9 ter parasitas habitando o meu intestino",
                                                          "destination":  "zDwgn6",
                                                          "pulse":  false,
                                                          "target":  false,
@@ -974,7 +974,7 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "name":  "h6LeZe",
                                                          "type":  "next",
-                                                         "label":  "\ud83d\ude30 No sab\u00eda que fuera tan grave, pero quiero cuidarme.",
+                                                         "label":  "\ud83d\ude30 N\u00e3o sabia da gravidade, mais quero cuidar.",
                                                          "destination":  "zDwgn6",
                                                          "pulse":  false,
                                                          "target":  false,
@@ -1002,7 +1002,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003e\u00bfEst\u00e1 de acuerdo conmigo en que la mayor\u00eda de las veces \u003c/strong\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eel\u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003e agrandamiento de la pr\u00f3stata\u003c/strong\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003e no es nuestra culpa? \u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003eA veces nos tachan de descuidados\u003c/strong\u003e\u003cstrong\u003e,\u0026nbsp;\u003c/strong\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003e \u00bfpero esto se debe a que nuestro organismo est\u00e1 inflamado debido a par\u00e1sitos intestinales?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(107, 114, 128);\"\u003ePor favor, sea sincero, \u00a1quiero ayudar!\u003c/span\u003e\u003c/p\u003e",
+                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003eVoc\u00ea concorda comigo que na maioria das vezes \u003c/strong\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eo\u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003e aumento da prostata\u003c/strong\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003e n\u00e3o \u00e9 nossa culpa. \u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003eSomos taxados de machistas, ignorantes e desleixados\u003c/strong\u003e\u003cstrong\u003e,\u0026nbsp;\u003c/strong\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003e mas isso se deve ao nosso organismo estar inflamado por conta de parasitas intestinais?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(107, 114, 128);\"\u003ePor favor, seja sincera, quero ajudar!\u003c/span\u003e\u003c/p\u003e",
                                                          "id":  "Ep0i92",
                                                          "name":  "weJiCt"
                                                      }
@@ -1021,7 +1021,7 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "name":  "botao_Ezk8O7",
                                                          "type":  "next",
-                                                         "label":  "\u00a1S\u00ed, estoy de acuerdo!",
+                                                         "label":  "Eu concordo sim!",
                                                          "destination":  "InJH1Q",
                                                          "pulse":  false,
                                                          "target":  false,
@@ -1055,7 +1055,7 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "name":  "eBPXy8",
                                                          "type":  "next",
-                                                         "label":  "De acuerdo en parte.",
+                                                         "label":  "Concordo em partes.",
                                                          "destination":  "InJH1Q",
                                                          "pulse":  false,
                                                          "target":  false,
@@ -1083,7 +1083,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong\u003e\u00bfHa comido alguno de estos alimentos en los \u00faltimos 3 meses?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003eResponda con atenci\u00f3n, estamos evaluando cada respuesta.\u003c/p\u003e",
+                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong\u003eVoc\u00ea comeu algum desses alimentos nos ultimos 3 meses?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003eResponda com aten\u00e7\u00e3o estamos avaliando cada resposta.\u003c/p\u003e",
                                                          "id":  "io4kg6",
                                                          "name":  "vMLxj8"
                                                      }
@@ -1132,7 +1132,7 @@ window.QUIZ_DATA = {
                                                                                            "width":  625,
                                                                                            "height":  688
                                                                                        },
-                                                                             "label":  "\u003cp\u003eQueso\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003eQueijo\u003c/p\u003e",
                                                                              "destination":  "next",
                                                                              "chosen":  false,
                                                                              "selected":  false
@@ -1145,7 +1145,7 @@ window.QUIZ_DATA = {
                                                                                            "width":  625,
                                                                                            "height":  688
                                                                                        },
-                                                                             "label":  "\u003cp\u003eAlcohol\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003eAlcool\u003c/p\u003e",
                                                                              "destination":  "next",
                                                                              "chosen":  false,
                                                                              "selected":  false
@@ -1158,14 +1158,14 @@ window.QUIZ_DATA = {
                                                                                            "width":  434,
                                                                                            "height":  434
                                                                                        },
-                                                                             "label":  "\u003cp\u003ePapas fritas\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003eBatata Frita\u003c/p\u003e",
                                                                              "destination":  "next",
                                                                              "chosen":  false,
                                                                              "selected":  false
                                                                          },
                                                                          {
                                                                              "id":  "eoESET",
-                                                                             "label":  "\u003cp\u003eRefrescos / Gaseosas\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003eRefrigerante\u003c/p\u003e",
                                                                              "chosen":  false,
                                                                              "selected":  false,
                                                                              "image":  {
@@ -1178,7 +1178,7 @@ window.QUIZ_DATA = {
                                                                          },
                                                                          {
                                                                              "id":  "e6UN2J",
-                                                                             "label":  "\u003cp\u003eSalchichas\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003eSalsicha\u003c/p\u003e",
                                                                              "chosen":  false,
                                                                              "selected":  false,
                                                                              "image":  {
@@ -1252,7 +1252,7 @@ window.QUIZ_DATA = {
                                                         "horizontalAlign":  "mx-auto"
                                                     },
                                          "content":  {
-                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003eDe los\u003c/strong\u003e\u003cstrong style=\"color: rgb(13, 168, 11);\"\u003e \u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003es\u00edntomas enumerados abajo\u003c/strong\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003e, \u00bfcu\u00e1les le incomodan m\u00e1s?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003eSeleccione uno o m\u00e1s.\u003c/p\u003e",
+                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003eDentro dos\u003c/strong\u003e\u003cstrong style=\"color: rgb(13, 168, 11);\"\u003e \u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003esintomas listados abaixo\u003c/strong\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003e, quais mais te incomodam?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003eSelecione um ou mais.\u003c/p\u003e",
                                                          "id":  "3WCH6c"
                                                      }
                                      },
@@ -1284,7 +1284,7 @@ window.QUIZ_DATA = {
                                                                                            "type":  "image",
                                                                                            "src":  null
                                                                                        },
-                                                                             "label":  "\u003cul\u003e\u003cli\u003eCHORRO D\u00c9BIL DE ORINA\u003c/li\u003e\u003c/ul\u003e",
+                                                                             "label":  "\u003cul\u003e\u003cli\u003eJATO FRACO DE URINA\u003c/li\u003e\u003c/ul\u003e",
                                                                              "destination":  "next",
                                                                              "chosen":  false,
                                                                              "selected":  false
@@ -1295,42 +1295,42 @@ window.QUIZ_DATA = {
                                                                                            "type":  "image",
                                                                                            "src":  null
                                                                                        },
-                                                                             "label":  "\u003cul\u003e\u003cli\u003eGANAS FRECUENTES DE ORINAR\u0026nbsp;\u003c/li\u003e\u003c/ul\u003e",
+                                                                             "label":  "\u003cul\u003e\u003cli\u003eVONTADE FREQUENTE DE URINAR\u0026nbsp;\u003c/li\u003e\u003c/ul\u003e",
                                                                              "destination":  "next",
                                                                              "chosen":  false,
                                                                              "selected":  false
                                                                          },
                                                                          {
                                                                              "id":  "nTEISg",
-                                                                             "label":  "\u003cul\u003e\u003cli\u003eDIFICULTAD PARA EMPEZAR A ORINAR\u003c/li\u003e\u003c/ul\u003e",
+                                                                             "label":  "\u003cul\u003e\u003cli\u003eDIFICULDADE PARA COME\u00c7AR A URINAR\u003c/li\u003e\u003c/ul\u003e",
                                                                              "chosen":  false,
                                                                              "selected":  false,
                                                                              "destination":  "next"
                                                                          },
                                                                          {
                                                                              "id":  "KAKwO3",
-                                                                             "label":  "\u003cul\u003e\u003cli\u003eSENSACI\u00d3N DE VEJIGA LLENA DESPU\u00c9S DE ORINAR\u003c/li\u003e\u003c/ul\u003e",
+                                                                             "label":  "\u003cul\u003e\u003cli\u003eSENSA\u00c7\u00c3O DE BEXIGA CHEIA AP\u00d3S URINAR\u003c/li\u003e\u003c/ul\u003e",
                                                                              "chosen":  false,
                                                                              "selected":  false,
                                                                              "destination":  "next"
                                                                          },
                                                                          {
                                                                              "id":  "kr5y5k",
-                                                                             "label":  "\u003cul\u003e\u003cli\u003eURGENCIA PARA ORINAR\u003c/li\u003e\u003c/ul\u003e",
+                                                                             "label":  "\u003cul\u003e\u003cli\u003eURG\u00caNCIA PARA URINAR\u003c/li\u003e\u003c/ul\u003e",
                                                                              "chosen":  false,
                                                                              "selected":  false,
                                                                              "destination":  "next"
                                                                          },
                                                                          {
                                                                              "id":  "WD26Dt",
-                                                                             "label":  "\u003cul\u003e\u003cli\u003eGOTE\u00d3 AL FINALIZAR DE ORINAR\u003c/li\u003e\u003c/ul\u003e",
+                                                                             "label":  "\u003cul\u003e\u003cli\u003eGOTEJAMENTO NO FINAL DO XIXI\u003c/li\u003e\u003c/ul\u003e",
                                                                              "chosen":  false,
                                                                              "selected":  false,
                                                                              "destination":  "next"
                                                                          },
                                                                          {
                                                                              "id":  "IwqljT",
-                                                                             "label":  "\u003cul\u003e\u003cli\u003eEYACULACI\u00d3N PRECOZ\u003c/li\u003e\u003c/ul\u003e",
+                                                                             "label":  "\u003cul\u003e\u003cli\u003eEJACULA\u00c7\u00c3O PRECOCE\u003c/li\u003e\u003c/ul\u003e",
                                                                              "chosen":  false,
                                                                              "selected":  false,
                                                                              "destination":  "next"
@@ -1398,7 +1398,7 @@ window.QUIZ_DATA = {
                                                         "horizontalAlign":  "mx-auto"
                                                     },
                                          "content":  {
-                                                         "text":  "\u003ch2 class=\"ql-align-center\"\u003e\u003cstrong\u003e\u00bfHace cu\u00e1nto tiempo convive com estos s\u00edntomas?\u003c/strong\u003e\u003c/h2\u003e\u003cp class=\"ql-align-center\"\u003eEsta informaci\u00f3n es esencial para entender mejor su situaci\u00f3n actual.\u003c/p\u003e",
+                                                         "text":  "\u003ch2 class=\"ql-align-center\"\u003e\u003cstrong\u003eH\u00e1 quanto tempo voc\u00ea convive com esses sintomas?\u003c/strong\u003e\u003c/h2\u003e\u003cp class=\"ql-align-center\"\u003eEssa informa\u00e7\u00e3o \u00e9 essencial para entendermos melhor a sua situa\u00e7\u00e3o atual.\u003c/p\u003e",
                                                          "id":  "3WCH6c",
                                                          "name":  "S8tL3c"
                                                      }
@@ -1430,7 +1430,7 @@ window.QUIZ_DATA = {
                                                                                            "type":  "image",
                                                                                            "src":  null
                                                                                        },
-                                                                             "label":  "\u003ch3\u003eMenos de 6 meses\u003c/h3\u003e\u003cp\u003eEst\u00e1 empezando ahora, pero ya me est\u00e1 preocupando.\u003c/p\u003e",
+                                                                             "label":  "\u003ch3\u003eMenos de 6 meses\u003c/h3\u003e\u003cp\u003eEst\u00e1 come\u00e7ando agora, mas j\u00e1 t\u00e1 me deixando preocupado.\u003c/p\u003e",
                                                                              "destination":  "LMeuDb",
                                                                              "chosen":  false,
                                                                              "selected":  false
@@ -1441,21 +1441,21 @@ window.QUIZ_DATA = {
                                                                                            "type":  "image",
                                                                                            "src":  null
                                                                                        },
-                                                                             "label":  "\u003ch3\u003eEntre 6 meses y 1 a\u00f1o\u003c/h3\u003e\u003cp\u003eYa lleva un tiempo... y noto que va empeorando poco a poco.\u003c/p\u003e",
+                                                                             "label":  "\u003ch3\u003eEntre 6 meses e 1 ano\u003c/h3\u003e\u003cp\u003eJ\u00e1 faz um tempo... e percebo que t\u00e1 piorando aos poucos.\u003c/p\u003e",
                                                                              "destination":  "LMeuDb",
                                                                              "chosen":  false,
                                                                              "selected":  false
                                                                          },
                                                                          {
                                                                              "id":  "RHHRyx",
-                                                                             "label":  "\u003ch3\u003eEntre 1 y 3 a\u00f1os\u003c/h3\u003e\u003cp\u003eConvivo con esto hace a\u00f1os y sinceramente, me cans\u00e9 de aceptarlo como \"normal\".\u003c/p\u003e",
+                                                                             "label":  "\u003ch3\u003eEntre 1 e 3 anos\u003c/h3\u003e\u003cp\u003eConvivo com isso h\u00e1 anos e sinceramente, cansei de aceitar como \u201cnormal\u201d.\u003c/p\u003e",
                                                                              "chosen":  false,
                                                                              "selected":  false,
                                                                              "destination":  "LMeuDb"
                                                                          },
                                                                          {
                                                                              "id":  "LQgDKZ",
-                                                                             "label":  "\u003ch3\u003eM\u00e1s de 3 a\u00f1os\u003c/h3\u003e\u003cp\u003eHace tanto tiempo que convivo con esto... sinceramente, ya ni me acuerdo de c\u00f3mo era vivir sin estos s\u00edntomas.\u003c/p\u003e",
+                                                                             "label":  "\u003ch3\u003eMais de 3 anos\u003c/h3\u003e\u003cp\u003eJ\u00e1 faz tanto tempo que convivo com isso... sinceramente, nem lembro mais como era viver sem esses sintomas.\u003c/p\u003e",
                                                                              "chosen":  false,
                                                                              "selected":  false,
                                                                              "destination":  "LMeuDb"
@@ -1487,7 +1487,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003e\u00bfLos s\u00edntomas que seleccion\u00f3 han \u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003eafectado su vida diaria?\u0026nbsp;\u003c/strong\u003e\u003c/h3\u003e",
+                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003eOs sintomas que voc\u00ea selecionou tem \u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003eatrapalhado a sua vida?\u0026nbsp;\u003c/strong\u003e\u003c/h3\u003e",
                                                          "id":  "Q2Ml0I"
                                                      }
                                      },
@@ -1505,7 +1505,7 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "name":  "U31nkq",
                                                          "type":  "next",
-                                                         "label":  "\u2705 \u00a1S\u00ed, much\u00edsimo!",
+                                                         "label":  "\u2705 Sim, demais!",
                                                          "destination":  "HYvlmq",
                                                          "pulse":  false,
                                                          "target":  false,
@@ -1540,7 +1540,7 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "name":  "N1zJg5",
                                                          "type":  "next",
-                                                         "label":  "\ud83d\ude05S\u00ed, es tan normal en mi vida que ya me acostumbr\u00e9.",
+                                                         "label":  "\ud83d\ude05Sim, est\u00e1 t\u00e3o normal na minha vida que eu j\u00e1 at\u00e9 acostumei.",
                                                          "destination":  "HYvlmq",
                                                          "pulse":  false,
                                                          "target":  false,
@@ -1575,7 +1575,7 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "name":  "DSZMXz",
                                                          "type":  "next",
-                                                         "label":  "\ud83e\uddd0Si no lo hubiera mencionado, ni sabr\u00eda que podr\u00eda ser una parasitosis.",
+                                                         "label":  "\ud83e\uddd0Se voc\u00ea n\u00e3o tivesse falado, eu nem saberia que poderia ser parasitose.",
                                                          "destination":  "HYvlmq",
                                                          "pulse":  false,
                                                          "target":  false,
@@ -1610,7 +1610,7 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "name":  "pn3kpC",
                                                          "type":  "next",
-                                                         "label":  "\ud83d\ude0cNo me afecta realmente.",
+                                                         "label":  "\ud83d\ude0cN\u00e3o me atrapalha n\u00e3o.",
                                                          "destination":  "HYvlmq",
                                                          "pulse":  false,
                                                          "target":  false,
@@ -1638,7 +1638,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003e\u00bfSabe cu\u00e1l es el volumen actual de su pr\u00f3stata?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003eResponder a la siguiente pregunta puede ayudar a identificar signos tempranos de crecimiento anormal.\u003c/p\u003e",
+                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eVoc\u00ea sabe qual \u00e9 o volume atual da sua pr\u00f3stata?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003eResponder \u00e0 pergunta abaixo pode ajudar a identificar sinais precoces de crescimento anormal.\u003c/p\u003e",
                                                          "id":  "QRlWp9",
                                                          "name":  "GmXZ3j"
                                                      }
@@ -1685,7 +1685,7 @@ window.QUIZ_DATA = {
                                                                                            "type":  "emoji",
                                                                                            "src":  "\ud83d\ude00"
                                                                                        },
-                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eMenos de 30 cm\u00b3 (volumen normal)\u003c/p\u003e",
+                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eMenos de 30 cm\u00b3 (volume normal)\u003c/p\u003e",
                                                                              "destination":  "CUgCOi",
                                                                              "chosen":  false,
                                                                              "selected":  false
@@ -1696,7 +1696,7 @@ window.QUIZ_DATA = {
                                                                                            "type":  "emoji",
                                                                                            "src":  "\ud83e\udd28"
                                                                                        },
-                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eEntre 30 y 40 cm\u00b3 (volumen levemente aumentado)\u003c/p\u003e",
+                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eEntre 30 e 40 cm\u00b3 (volume levemente aumentado)\u003c/p\u003e",
                                                                              "destination":  "CUgCOi",
                                                                              "chosen":  false,
                                                                              "selected":  false
@@ -1707,14 +1707,14 @@ window.QUIZ_DATA = {
                                                                                            "type":  "emoji",
                                                                                            "src":  "\ud83d\ude2e"
                                                                                        },
-                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eEntre 40 y 60 cm\u00b3 (volumen moderadamente aumentado)\u003c/p\u003e",
+                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eEntre 40 e 60 cm\u00b3 (volume moderadamente aumentado)\u003c/p\u003e",
                                                                              "destination":  "CUgCOi",
                                                                              "chosen":  false,
                                                                              "selected":  false
                                                                          },
                                                                          {
                                                                              "id":  "3gfSXX",
-                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eM\u00e1s de 60 cm\u00b3 (volumen bastante aumentado)\u003c/p\u003e",
+                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eAcima de 60 cm\u00b3 (volume bastante aumentado)\u003c/p\u003e",
                                                                              "image":  {
                                                                                            "type":  "emoji",
                                                                                            "src":  "\ud83d\ude25"
@@ -1725,7 +1725,7 @@ window.QUIZ_DATA = {
                                                                          },
                                                                          {
                                                                              "id":  "38gOT5",
-                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eNo lo s\u00e9 / Nunca me he realizado un examen de volumen prost\u00e1tico\u003c/p\u003e",
+                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eN\u00e3o sei / Nunca fiz exame de volume prost\u00e1tico\u003c/p\u003e",
                                                                              "chosen":  false,
                                                                              "selected":  false,
                                                                              "image":  {
@@ -1760,8 +1760,8 @@ window.QUIZ_DATA = {
                                                         "basis":  100
                                                     },
                                          "content":  {
-                                                         "title":  "\u003cp\u003e\u003cstrong\u003e\u26a0\ufe0f Los resultados no mienten:\u003c/strong\u003e\u003c/p\u003e",
-                                                         "text":  "\u003cp\u003eSus s\u00edntomas est\u00e1n indicando algo muy peligroso \u2013\u0026nbsp;\u003cstrong\u003e\u003cu\u003e\u00a1Escuche con atenci\u00f3n!\u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e",
+                                                         "title":  "\u003cp\u003e\u003cstrong\u003e\u26a0\ufe0f Os Resultados N\u00e3o Mentem:\u003c/strong\u003e\u003c/p\u003e",
+                                                         "text":  "\u003cp\u003eSeus Sintomas est\u00e3o indicando Algo Muito Perigoso \u2013\u0026nbsp;\u003cstrong\u003e\u003cu\u003eOu\u00e7a Com Aten\u00e7\u00e3o!\u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e",
                                                          "position":  "default",
                                                          "id":  "5OTFqP",
                                                          "name":  "NtgUKX",
@@ -1791,7 +1791,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003cp class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eEscuche esta r\u00e1pida explicaci\u00f3n\u0026nbsp;\u003c/strong\u003e\u003cstrong\u003e\ud83d\udc47\u003c/strong\u003e\u003c/p\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(63, 63, 70);\"\u003eEn caso de que el audio no inicie, \u00a1solo haga clic en \u00e9l!\u003c/span\u003e\u003c/p\u003e",
+                                                         "text":  "\u003cp class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eEscute essa r\u00e1pida explica\u00e7\u00e3o\u0026nbsp;\u003c/strong\u003e\u003cstrong\u003e\ud83d\udc47\u003c/strong\u003e\u003c/p\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(63, 63, 70);\"\u003eCaso o \u00e1udio n\u00e3o inicie, basta clicar nele!\u003c/span\u003e\u003c/p\u003e",
                                                          "id":  "cvicsQ",
                                                          "name":  "gHxQDA"
                                                      }
@@ -1809,7 +1809,7 @@ window.QUIZ_DATA = {
                                                     },
                                          "content":  {
                                                          "audio":  {
-                                                                       "src":  "audios/audio1_es.mp3",
+                                                                       "src":  "https://media.inlead.cloud/uploads/23849/2025-06-07/06qf1-audio-1-mari-prostata-primeiro.mp3",
                                                                        "type":  "audio"
                                                                    },
                                                          "image":  {
@@ -1820,7 +1820,7 @@ window.QUIZ_DATA = {
                                                                    },
                                                          "id":  "dcmQZP",
                                                          "name":  "EuMgXC",
-                                                         "sender":  "Dra. Ana Lima"
+                                                         "sender":  "Ana Lima"
                                                      },
                                          "roles":  [
 
@@ -1849,7 +1849,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong\u003eMire este caso\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e1 semana despu\u00e9s de iniciar la desparasitaci\u00f3n\u003c/span\u003e\u003c/p\u003e",
+                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong\u003eVeja so esse caso\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e1 semana ap\u00f3s iniciar a desparasita\u00e7\u00e3o\u003c/span\u003e\u003c/p\u003e",
                                                          "id":  "09bOW3",
                                                          "name":  "JZkBHX"
                                                      }
@@ -1901,9 +1901,9 @@ window.QUIZ_DATA = {
                                                          "quotes":  [
                                                                         {
                                                                             "id":  "PkThhP",
-                                                                            "text":  "Me la pasaba yendo al ba\u00f1o, sobre todo por las noches. La vejiga nunca se vaciaba bien y el chorro era muy d\u00e9bil. Pens\u00e9 que era normal de la edad, hasta que descubr\u00ed que mi cuerpo estaba inflamado por par\u00e1sitos.\n\nMe hice la desparasitaci\u00f3n y, en menos de 2 semanas, todo cambi\u00f3. Orino normal, duermo toda la noche de corrido y hasta mi rendimiento en la cama regres\u00f3. Me siento como un hombre nuevo.",
-                                                                            "activity":  "C\u00f3rdoba, Argentina",
-                                                                            "name":  "Roberto Linares",
+                                                                            "text":  "Eu vivia indo ao banheiro, principalmente \u00e0 noite. A bexiga nunca esvaziava direito e o jato era fraco. Achei que era normal da idade, mas descobri que meu corpo estava inflamado por parasitas.\n\nFiz a desparasita\u00e7\u00e3o e, em menos de 2 semanas, tudo mudou. Urino normalmente, durmo a noite toda e at\u00e9 meu desempenho voltou. Me sinto outro homem.",
+                                                                            "activity":  "Porto Alegre, RS",
+                                                                            "name":  "Roberto Limeira",
                                                                             "rate":  null,
                                                                             "chosen":  false,
                                                                             "selected":  false,
@@ -1976,7 +1976,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003e\u00bfTendr\u00eda inter\u00e9s en recibir un \u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003eprotocolo personalizado\u003c/strong\u003e\u003cstrong style=\"color: rgb(0, 173, 3);\"\u003e \u003c/strong\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003epara desparasitarse en 14 d\u00edas?\u003c/strong\u003e\u003c/h3\u003e",
+                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003eVoc\u00ea teria interesse em receber um \u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003eprotocolo personalizado\u003c/strong\u003e\u003cstrong style=\"color: rgb(0, 173, 3);\"\u003e \u003c/strong\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003epara Desparasita\u00e7\u00e3o em 14 dias?\u003c/strong\u003e\u003c/h3\u003e",
                                                          "id":  "Dp1ohP"
                                                      }
                                      },
@@ -2008,7 +2008,7 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "name":  "pKhqG9",
                                                          "type":  "next",
-                                                         "label":  "\u2705 \u00a1S\u00ed, lo quiero much\u00edsimo!",
+                                                         "label":  "\u2705 Sim, Eu quero demais!",
                                                          "destination":  "5fAJuc",
                                                          "pulse":  false,
                                                          "target":  false,
@@ -2043,7 +2043,7 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "name":  "JCBmU7",
                                                          "type":  "next",
-                                                         "label":  "\ud83d\ude03Tengo inter\u00e9s, pero quiero aclarar dudas.",
+                                                         "label":  "\ud83d\ude03Tenho interesse, mas quero tirar d\u00favidas.",
                                                          "destination":  "5fAJuc",
                                                          "pulse":  false,
                                                          "target":  false,
@@ -2071,7 +2071,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong\u003e\u00bfEst\u00e1 utilizando alguno de estos medicamentos actualmente?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003eResponda con atenci\u00f3n, seleccione uno o m\u00e1s:\u003c/p\u003e",
+                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong\u003eVoc\u00ea est\u00e1 utilizando algum desses medicamentos atualmente?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003eResponda com aten\u00e7\u00e3o, selecione um ou mais;\u003c/p\u003e",
                                                          "id":  "jPHsw0"
                                                      }
                                      },
@@ -2128,7 +2128,7 @@ window.QUIZ_DATA = {
                                                                                            "type":  "image",
                                                                                            "src":  null
                                                                                        },
-                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eClorhidrato de Tamsulosina\u003c/p\u003e",
+                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eCloridrato de Tansulosina\u003c/p\u003e",
                                                                              "destination":  "next",
                                                                              "chosen":  false,
                                                                              "selected":  false
@@ -2146,7 +2146,7 @@ window.QUIZ_DATA = {
                                                                          },
                                                                          {
                                                                              "id":  "sCj5GK",
-                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eCombinaciones de Dutasterida + Tamsulosina\u003c/p\u003e",
+                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eCombina\u00e7\u00f5es de Dutasterida + Tansulosina\u003c/p\u003e",
                                                                              "image":  {
                                                                                            "type":  "image",
                                                                                            "src":  null
@@ -2164,14 +2164,14 @@ window.QUIZ_DATA = {
                                                                          },
                                                                          {
                                                                              "id":  "KJkhuV",
-                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eTadalafilo\u003c/p\u003e",
+                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eTadalafila\u003c/p\u003e",
                                                                              "chosen":  false,
                                                                              "selected":  false,
                                                                              "destination":  "next"
                                                                          },
                                                                          {
                                                                              "id":  "7IFpbc",
-                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(3, 7, 18); background-color: inherit;\"\u003eNo uso ninguno por el momento\u003c/span\u003e\u003c/p\u003e",
+                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(3, 7, 18); background-color: inherit;\"\u003eN\u00e3o uso nada no momento\u003c/span\u003e\u003c/p\u003e",
                                                                              "chosen":  false,
                                                                              "selected":  false,
                                                                              "destination":  "next"
@@ -2238,7 +2238,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003e\u00bfCon qu\u00e9 frecuencia monitorea el tama\u00f1o de su pr\u00f3stata?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(107, 114, 128);\"\u003eResponda con atenci\u00f3n, por favor.\u003c/span\u003e\u003c/p\u003e",
+                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003eCom que frequ\u00eancia voc\u00ea realiza monitoramento do tamanho da sua Pr\u00f3stata?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(107, 114, 128);\"\u003eResponda com aten\u00e7\u00e3o, por favor.\u003c/span\u003e\u003c/p\u003e",
                                                          "id":  "FRfEt0"
                                                      }
                                      },
@@ -2282,7 +2282,7 @@ window.QUIZ_DATA = {
                                                                                            "type":  "emoji",
                                                                                            "src":  "\u26a0"
                                                                                        },
-                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eCADA 6 MESES\u003c/p\u003e",
+                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eA CADA 6 MESES\u003c/p\u003e",
                                                                              "destination":  "h3NsTd",
                                                                              "chosen":  false,
                                                                              "selected":  false
@@ -2293,14 +2293,14 @@ window.QUIZ_DATA = {
                                                                                            "type":  "emoji",
                                                                                            "src":  "\u2705"
                                                                                        },
-                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eCADA 12 MESES\u003c/p\u003e",
+                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eA CADA 12 MESES\u003c/p\u003e",
                                                                              "destination":  "h3NsTd",
                                                                              "chosen":  false,
                                                                              "selected":  false
                                                                          },
                                                                          {
                                                                              "id":  "ueuBUS",
-                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eCADA 2 A\u00d1OS\u003c/p\u003e",
+                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eA CADA 2 ANOS\u003c/p\u003e",
                                                                              "chosen":  false,
                                                                              "selected":  false,
                                                                              "image":  {
@@ -2311,7 +2311,7 @@ window.QUIZ_DATA = {
                                                                          },
                                                                          {
                                                                              "id":  "MXRGBy",
-                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eLO HICE UNA SOLA VEZ\u003c/p\u003e",
+                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eFIZ 1 \u00daNICA VEZ\u003c/p\u003e",
                                                                              "chosen":  false,
                                                                              "selected":  false,
                                                                              "image":  {
@@ -2322,7 +2322,7 @@ window.QUIZ_DATA = {
                                                                          },
                                                                          {
                                                                              "id":  "giKi96",
-                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eA\u00daN NO LO HAGO\u003c/p\u003e",
+                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eAINDA N\u00c3O FA\u00c7O\u003c/p\u003e",
                                                                              "chosen":  false,
                                                                              "selected":  false,
                                                                              "image":  {
@@ -2357,7 +2357,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong\u003e\u00bfEst\u00e1 de acuerdo conmigo en que nuestra salud\u003c/strong\u003e\u003cstrong style=\"color: rgb(42, 158, 0);\"\u003e \u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003ees nuestro bien m\u00e1s preciado?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003eSin ella no somos nada.\u003c/p\u003e",
+                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong\u003eVoc\u00ea concorda comigo que a nossa sa\u00fade\u003c/strong\u003e\u003cstrong style=\"color: rgb(42, 158, 0);\"\u003e \u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003e\u00e9 o nosso bem mais importante?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003esem ela n\u00e3o somos nada.\u003c/p\u003e",
                                                          "id":  "0mBQCB"
                                                      }
                                      },
@@ -2389,7 +2389,7 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "name":  "C09rol",
                                                          "type":  "next",
-                                                         "label":  "\u2705 \u00a1De acuerdo!",
+                                                         "label":  "\u2705 Concordo!",
                                                          "destination":  "kh9Wg6",
                                                          "pulse":  false,
                                                          "target":  false,
@@ -2424,7 +2424,7 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "name":  "nlebRj",
                                                          "type":  "next",
-                                                         "label":  "\ud83d\ude15 No estoy de acuerdo.",
+                                                         "label":  "\ud83d\ude15 N\u00e3o concordo.",
                                                          "destination":  "kh9Wg6",
                                                          "pulse":  false,
                                                          "target":  false,
@@ -2452,7 +2452,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003e\u00bfC\u00f3mo est\u00e1 su desempe\u00f1o sexual actualmente?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003ePor favor, responda con sinceridad \u2014 esta informaci\u00f3n es importante para nuestro an\u00e1lisis.\u003c/p\u003e",
+                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eComo est\u00e1 o seu desempenho sexual atualmente?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003ePor favor, responda com sinceridade \u2014 essa informa\u00e7\u00e3o \u00e9 importante para a nossa an\u00e1lise.\u003c/p\u003e",
                                                          "id":  "uovAS5",
                                                          "name":  "PtOWdN"
                                                      }
@@ -2499,7 +2499,7 @@ window.QUIZ_DATA = {
                                                                                            "type":  "image",
                                                                                            "src":  null
                                                                                        },
-                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eMi vida sexual est\u00e1 como siempre, sin quejas.\u003c/p\u003e",
+                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eMinha vida sexual est\u00e1 como sempre foi, sem queixas.\u003c/p\u003e",
                                                                              "destination":  "hKb47H",
                                                                              "chosen":  false,
                                                                              "selected":  false
@@ -2510,7 +2510,7 @@ window.QUIZ_DATA = {
                                                                                            "type":  "image",
                                                                                            "src":  null
                                                                                        },
-                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eSiento que no tengo el mismo rendimiento de antes, pero a\u00fan logro mantener relaciones.\u003c/p\u003e",
+                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eSinto que n\u00e3o tenho o mesmo desempenho de antes, mas ainda consigo manter rela\u00e7\u00f5es.\u003c/p\u003e",
                                                                              "destination":  "hKb47H",
                                                                              "chosen":  false,
                                                                              "selected":  false
@@ -2521,21 +2521,21 @@ window.QUIZ_DATA = {
                                                                                            "type":  "image",
                                                                                            "src":  null
                                                                                        },
-                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eConsigo iniciar, pero pierdo la firmeza con facilidad.\u003c/p\u003e",
+                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eConsigo iniciar, mas perco a firmeza com facilidade.\u003c/p\u003e",
                                                                              "destination":  "hKb47H",
                                                                              "chosen":  false,
                                                                              "selected":  false
                                                                          },
                                                                          {
                                                                              "id":  "FBX2yZ",
-                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eCasi siempre tengo dificultad para lograr o mantener una erecci\u00f3n.\u003c/p\u003e",
+                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eQuase sempre tenho dificuldade para ter ou manter ere\u00e7\u00e3o.\u003c/p\u003e",
                                                                              "chosen":  false,
                                                                              "selected":  false,
                                                                              "destination":  "hKb47H"
                                                                          },
                                                                          {
                                                                              "id":  "cLoZHK",
-                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003ePor elecci\u00f3n u otros factores, no mantengo relaciones actualmente.\u003c/p\u003e",
+                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003ePor escolha ou outros fatores, n\u00e3o estou mantendo rela\u00e7\u00f5es atualmente.\u003c/p\u003e",
                                                                              "chosen":  false,
                                                                              "selected":  false,
                                                                              "destination":  "hKb47H"
@@ -2565,7 +2565,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong\u003e\u00bfSe compromete a seguir nuestro \u003c/strong\u003e\u003cstrong style=\"color: rgb(0, 168, 20);\"\u003eProtocolo de 14 D\u00edas\u003c/strong\u003e\u003cstrong\u003e en Casa?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(63, 63, 70);\"\u003eLe ayudar\u00e9 en todo lo que necesite.\u003c/span\u003e\u003c/p\u003e",
+                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong\u003eVoc\u00ea se compromete em seguir nosso \u003c/strong\u003e\u003cstrong style=\"color: rgb(0, 168, 20);\"\u003eProtocolo de 14 Dias\u003c/strong\u003e\u003cstrong\u003e em Casa?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(63, 63, 70);\"\u003evou te ajudar em tudo o que precisar.\u003c/span\u003e\u003c/p\u003e",
                                                          "id":  "kdPEQN"
                                                      }
                                      },
@@ -2597,7 +2597,7 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "name":  "m2hj66",
                                                          "type":  "next",
-                                                         "label":  "\ud83d\ude0d \u00a1S\u00ed, me comprometo!",
+                                                         "label":  "\ud83d\ude0d Sim eu me Comprometo!",
                                                          "destination":  "AQolRe",
                                                          "pulse":  false,
                                                          "target":  false,
@@ -2632,7 +2632,7 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "name":  "6nPsRa",
                                                          "type":  "next",
-                                                         "label":  "\ud83d\ude00 \u00a1Lo voy a intentar!",
+                                                         "label":  "\ud83d\ude00Eu vou Tentar!",
                                                          "destination":  "AQolRe",
                                                          "pulse":  false,
                                                          "target":  false,
@@ -2673,11 +2673,11 @@ window.QUIZ_DATA = {
                                                                            "id":  "9rfwjD",
                                                                            "image":  {
                                                                                          "type":  "image",
-                                                                                         "src":  "images/conversa_rafael.png",
+                                                                                         "src":  "https://media.inlead.cloud/uploads/23849/2025-10-23/G62r1-conversa-com-rafael.webp",
                                                                                          "width":  1080,
                                                                                          "height":  1920
                                                                                      },
-                                                                           "text":  "\u003cp class=\"ql-align-center\"\u003eEjemplo de descripci\u00f3n\u003c/p\u003e",
+                                                                           "text":  "\u003cp class=\"ql-align-center\"\u003eExemplo de descri\u00e7\u00e3o\u003c/p\u003e",
                                                                            "chosen":  false,
                                                                            "selected":  false
                                                                        },
@@ -2685,11 +2685,11 @@ window.QUIZ_DATA = {
                                                                            "id":  "paUFTq",
                                                                            "image":  {
                                                                                          "type":  "image",
-                                                                                         "src":  "images/conversa_anderson.png",
+                                                                                         "src":  "https://media.inlead.cloud/uploads/23849/2025-10-23/9TQQS-conversa-com-anderson.webp",
                                                                                          "width":  1080,
                                                                                          "height":  1920
                                                                                      },
-                                                                           "text":  "\u003cp class=\u0027ql-align-center\u0027\u003eEjemplo de descripci\u00f3n\u003c/p\u003e",
+                                                                           "text":  "\u003cp class=\u0027ql-align-center\u0027\u003eExemplo de descri\u00e7\u00e3o\u003c/p\u003e",
                                                                            "chosen":  false,
                                                                            "selected":  false
                                                                        },
@@ -2698,7 +2698,7 @@ window.QUIZ_DATA = {
                                                                            "text":  null,
                                                                            "image":  {
                                                                                          "type":  "image",
-                                                                                         "src":  "images/conversa_marcos.png",
+                                                                                         "src":  "https://media.inlead.cloud/uploads/23849/2025-10-23/GrNUN-conversa-com-marcos.webp",
                                                                                          "width":  1080,
                                                                                          "height":  1920
                                                                                      },
@@ -2732,7 +2732,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong\u003eImagine que\u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003e supera la HPB y vuelve a vivir sin limitaciones\u003c/strong\u003e\u003cstrong\u003e. \u00bfCu\u00e1l ser\u00eda la mejor parte de este logro para usted?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003ePor favor, responda con atenci\u00f3n: Puede seleccionar m\u00e1s de una opci\u00f3n.\u003c/p\u003e",
+                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong\u003eImagine que\u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003e voc\u00ea\u003c/strong\u003e\u003cstrong\u003e \u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003esuperou a HPB e voltou a viver sem limita\u00e7\u00f5es\u003c/strong\u003e\u003cstrong\u003e. O que seria a melhor parte dessa conquista para voc\u00ea?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003ePor favor, responda com aten\u00e7\u00e3o: Pode selecionar mais de uma op\u00e7\u00e3o.\u003c/p\u003e",
                                                          "id":  "q12zOT",
                                                          "name":  "szdM2x"
                                                      }
@@ -2779,7 +2779,7 @@ window.QUIZ_DATA = {
                                                                                            "type":  "image",
                                                                                            "src":  null
                                                                                        },
-                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eDormir toda la noche de corrido sin tener que levantarme a orinar\u003c/p\u003e",
+                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eDormir a noite inteira sem precisar levantar para urinar\u003c/p\u003e",
                                                                              "destination":  "next",
                                                                              "chosen":  false,
                                                                              "selected":  false
@@ -2790,7 +2790,7 @@ window.QUIZ_DATA = {
                                                                                            "type":  "image",
                                                                                            "src":  null
                                                                                        },
-                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eOrinar con fuerza, sin dolor y sin goteos\u003c/p\u003e",
+                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eUrinar com for\u00e7a, sem dor, sem pinga-pinga\u003c/p\u003e",
                                                                              "destination":  "next",
                                                                              "chosen":  false,
                                                                              "selected":  false
@@ -2801,21 +2801,21 @@ window.QUIZ_DATA = {
                                                                                            "type":  "image",
                                                                                            "src":  null
                                                                                        },
-                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eRecuperar mi vida sexual con firmeza y confianza\u003c/p\u003e",
+                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003eRecuperar minha vida sexual com firmeza e confian\u00e7a\u003c/p\u003e",
                                                                              "destination":  "next",
                                                                              "chosen":  false,
                                                                              "selected":  false
                                                                          },
                                                                          {
                                                                              "id":  "5zftiK",
-                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003e\u0026nbsp;Sentirme en control de mi salud y de mi vida\u003c/p\u003e",
+                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003e\u0026nbsp;Me sentir no controle da minha sa\u00fade e da minha vida\u003c/p\u003e",
                                                                              "chosen":  false,
                                                                              "selected":  false,
                                                                              "destination":  "next"
                                                                          },
                                                                          {
                                                                              "id":  "stfnJ9",
-                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003ePoder salir de casa, viajar y trabajar sin depender de un ba\u00f1o\u003c/p\u003e",
+                                                                             "label":  "\u003cp class=\"ql-align-center\"\u003ePoder sair de casa, viajar e trabalhar sem depender do banheiro\u003c/p\u003e",
                                                                              "chosen":  false,
                                                                              "selected":  false,
                                                                              "destination":  "next"
@@ -2882,7 +2882,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong\u003eEscuche el audio de abajo: \ud83d\udc47\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(63, 63, 70);\"\u003eEn caso de que el audio no inicie, \u00a1solo haga clic en \u00e9l!\u003c/span\u003e\u003c/p\u003e",
+                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong\u003eEscute\u0026nbsp;o \u00e1udio abaixo: \ud83d\udc47\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(63, 63, 70);\"\u003eCaso o AUDIO n\u00e3o inicie, basta clicar nele!\u003c/span\u003e\u003c/p\u003e",
                                                          "id":  "EcrOqi"
                                                      }
                                      },
@@ -2898,7 +2898,7 @@ window.QUIZ_DATA = {
                                                     },
                                          "content":  {
                                                          "audio":  {
-                                                                       "src":  "audios/audio2_es.mp3",
+                                                                       "src":  "https://media.inlead.cloud/uploads/23849/2025-06-07/ra5dc-audio-2-mari-protostata.mp3",
                                                                        "type":  "audio"
                                                                    },
                                                          "image":  {
@@ -2909,7 +2909,7 @@ window.QUIZ_DATA = {
                                                                    },
                                                          "id":  "1Yy8pj",
                                                          "name":  "7sfARB",
-                                                         "sender":  "Dra. Ana Lima"
+                                                         "sender":  "Ana Lima"
                                                      },
                                          "roles":  [
 
@@ -2924,7 +2924,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cspan style=\"background-color: rgb(255 255 255/var(--tw-bg-opacity));\"\u003eMire este caso\u003c/span\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003e1 semana despu\u00e9s de iniciar la desparasitaci\u00f3n\u003c/p\u003e",
+                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cspan style=\"background-color: rgb(255 255 255/var(--tw-bg-opacity));\"\u003eVeja s\u00f3 esse caso\u003c/span\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003e1 semana ap\u00f3s iniciar a desparasita\u00e7\u00e3o\u003c/p\u003e",
                                                          "id":  "dGoH9T",
                                                          "name":  "Y6h921"
                                                      }
@@ -2973,7 +2973,7 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "name":  "TPKG3A",
                                                          "type":  "next",
-                                                         "label":  "\u00a1Generar Protocolo Personalizado! \u2705",
+                                                         "label":  "Gerar Protocolo Personalizado! \u2705",
                                                          "destination":  "23SoVG",
                                                          "pulse":  false,
                                                          "target":  false,
@@ -3021,7 +3021,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003cp class=\"ql-align-center\"\u003e\u003cspan class=\"ql-size-large\" style=\"color: rgb(107, 114, 128);\"\u003eEstoy analizando sus respuestas y generando\u003c/span\u003e\u003c/p\u003e\u003ch3 class=\"ql-align-center\"\u003e\u003cspan class=\"ql-size-large\" style=\"color: rgb(255, 255, 255); background-color: rgb(22, 163, 74);\"\u003esu protocolo personalizado.\u003c/span\u003e\u003c/h3\u003e",
+                                                         "text":  "\u003cp class=\"ql-align-center\"\u003e\u003cspan class=\"ql-size-large\" style=\"color: rgb(107, 114, 128);\"\u003eEstou analisando as suas respostas e gerando o\u003c/span\u003e\u003c/p\u003e\u003ch3 class=\"ql-align-center\"\u003e\u003cspan class=\"ql-size-large\" style=\"color: rgb(255, 255, 255); background-color: rgb(22, 163, 74);\"\u003eseu protocolo personalizado.\u003c/span\u003e\u003c/h3\u003e",
                                                          "id":  "JucNbf",
                                                          "name":  "BafeAA"
                                                      }
@@ -3038,7 +3038,7 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "title":  null,
                                                          "name":  "oW6k5T",
-                                                         "description":  "\u003cp class=\"ql-align-center\"\u003eArmando el protocolo personalizado\u003c/p\u003e",
+                                                         "description":  "\u003cp class=\"ql-align-center\"\u003eMontando protocolo personalizado\u003c/p\u003e",
                                                          "seconds":  3,
                                                          "starts":  0,
                                                          "destination":  "s9Ovo0",
@@ -3060,7 +3060,7 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "title":  null,
                                                          "name":  "15yyqe",
-                                                         "description":  "\u003cp class=\"ql-align-center\"\u003eEstamos analizando sus respuestas\u003c/p\u003e",
+                                                         "description":  "\u003cp class=\"ql-align-center\"\u003eEstamos analisando suas respostas\u003c/p\u003e",
                                                          "seconds":  3,
                                                          "starts":  0,
                                                          "destination":  "s9Ovo0",
@@ -3092,7 +3092,7 @@ window.QUIZ_DATA = {
                                                     ],
                                          "content":  {
                                                          "image":  {
-                                                                       "src":  "images/comparacion.png",
+                                                                       "src":  "https://media.inlead.cloud/uploads/23849/2025-10-23/xaCYg-87mah-remedios.webp",
                                                                        "type":  "image",
                                                                        "width":  625,
                                                                        "height":  481
@@ -3110,7 +3110,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003cp class=\"ql-align-center\"\u003e\u003cbr\u003e\u003c/p\u003e\u003cp class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003eAbajo est\u00e1 el an\u00e1lisis de su situaci\u00f3n actual, \u003c/strong\u003e\u003cstrong style=\"color: rgb(0, 158, 26);\"\u003ebasado en sus respuestas.\u003c/strong\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003e\ud83d\udc47\u003c/strong\u003e\u003c/p\u003e",
+                                                         "text":  "\u003cp class=\"ql-align-center\"\u003e\u003cbr\u003e\u003c/p\u003e\u003cp class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003eAbaixo est\u00e1 a an\u00e1lise da sua situa\u00e7\u00e3o atual, \u003c/strong\u003e\u003cstrong style=\"color: rgb(0, 158, 26);\"\u003ebaseada nas suas respostas.\u003c/strong\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003e\ud83d\udc47\u003c/strong\u003e\u003c/p\u003e",
                                                          "id":  "CJdllv",
                                                          "name":  "Vd0Fqv"
                                                      }
@@ -3126,7 +3126,7 @@ window.QUIZ_DATA = {
                                                         "basis":  100
                                                     },
                                          "content":  {
-                                                         "title":  "Probabilidades de tener bacterias inflamatorias",
+                                                         "title":  "Chances de possuir bact\u00e9rias inflamat\u00f3rias",
                                                          "name":  "55sUtr",
                                                          "subtitle":  null,
                                                          "percent":  "95",
@@ -3147,7 +3147,7 @@ window.QUIZ_DATA = {
                                                         "basis":  100
                                                     },
                                          "content":  {
-                                                         "title":  "Probabilidades de tener infecciones urinarias frecuentes en los pr\u00f3ximos meses",
+                                                         "title":  "Chances de possuir Infec\u00e7\u00e3o \u00farin\u00e1ria Frequente nos pr\u00f3ximos meses",
                                                          "name":  "chances_de_possuir_infeccao_urinaria_frequente_nos_proximos_meses",
                                                          "subtitle":  null,
                                                          "percent":  "80",
@@ -3168,7 +3168,7 @@ window.QUIZ_DATA = {
                                                         "basis":  100
                                                     },
                                          "content":  {
-                                                         "title":  "Probabilidades de tener c\u00e1lculos en la vejiga",
+                                                         "title":  "Chances de possuir pedras na bexiga",
                                                          "name":  "chances_de_possuir_pedras_na_bexiga",
                                                          "subtitle":  null,
                                                          "percent":  "88",
@@ -3189,7 +3189,7 @@ window.QUIZ_DATA = {
                                                         "basis":  100
                                                     },
                                          "content":  {
-                                                         "title":  "Probabilidades de desarrollar c\u00e1ncer de pr\u00f3stata",
+                                                         "title":  "Chances de contrair cancer de prostata",
                                                          "name":  "chances_de_contrair_cancer_de_prostata",
                                                          "subtitle":  null,
                                                          "percent":  "95",
@@ -3210,7 +3210,7 @@ window.QUIZ_DATA = {
                                                         "basis":  100
                                                     },
                                          "content":  {
-                                                         "title":  "Probabilidades de volver a orinar normalmente sin desparasitarse",
+                                                         "title":  "Chances de voltar a ir ao banheiro normalmente sem a desparasita\u00e7\u00e3o",
                                                          "name":  "6jCcKy",
                                                          "subtitle":  null,
                                                          "percent":  "5",
@@ -3231,7 +3231,7 @@ window.QUIZ_DATA = {
                                                         "basis":  100
                                                     },
                                          "content":  {
-                                                         "title":  "Probabilidades de reducir la pr\u00f3stata en un 80% con la desparasitaci\u00f3n",
+                                                         "title":  "Chances de diminuir a pr\u00f3stata em 80% com a desparasita\u00e7\u00e3o",
                                                          "name":  "chances_de_diminuir_a_prostata_em_80_com_a_desparasitacao",
                                                          "subtitle":  null,
                                                          "percent":  "100",
@@ -3252,7 +3252,7 @@ window.QUIZ_DATA = {
                                                         "basis":  100
                                                     },
                                          "content":  {
-                                                         "title":  "Probabilidades de eliminar los par\u00e1sitos en 2 d\u00edas",
+                                                         "title":  "Chances de eliminar parasita em 2 dias",
                                                          "name":  "1hZ1w5",
                                                          "subtitle":  null,
                                                          "percent":  "95",
@@ -3273,7 +3273,7 @@ window.QUIZ_DATA = {
                                                         "basis":  100
                                                     },
                                          "content":  {
-                                                         "title":  "Probabilidades de eliminar los par\u00e1sitos por completo",
+                                                         "title":  "Chances de eliminar parasitas por completo",
                                                          "name":  "chances_de_eliminar_parasitas_por_completo",
                                                          "subtitle":  null,
                                                          "percent":  "100",
@@ -3292,7 +3292,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003cp class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003ePosible agente parasitario\u003c/strong\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003e de acuerdo con sus s\u00edntomas:\u003c/strong\u003e\u003c/p\u003e\u003cp class=\"ql-align-center\"\u003e\u003cem\u003e\u003cu\u003eAscaris lumbricoides\u003c/u\u003e\u003c/em\u003e\u003c/p\u003e",
+                                                         "text":  "\u003cp class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003ePoss\u00edvel agente parasit\u00e1rio\u003c/strong\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003e de acordo com os seus sintomas:\u003c/strong\u003e\u003c/p\u003e\u003cp class=\"ql-align-center\"\u003e\u003cem\u003e\u003cu\u003eAscaris lumbricoides\u003c/u\u003e\u003c/em\u003e\u003c/p\u003e",
                                                          "id":  "jKYSLU",
                                                          "name":  "fWGsux"
                                                      }
@@ -3340,8 +3340,8 @@ window.QUIZ_DATA = {
                                                         "basis":  100
                                                     },
                                          "content":  {
-                                                         "title":  "\u003cp\u003e\u26a0\ufe0f \u003cstrong\u003e\u00a1Atenci\u00f3n!\u003c/strong\u003e\u003c/p\u003e",
-                                                         "text":  "\u003cp\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eCon nuestro Protocolo, \u00a1puede estar tranquilo!\u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003e\u0026nbsp;Ning\u00fan par\u00e1sito saldr\u00e1 vivo\u003c/strong\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003e de forma molesta.\u0026nbsp;Son eliminados \u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003eya muertos y deshechos, \u003c/strong\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003ecasi imperceptibles.\u0026nbsp;\u263a\ufe0f\u003c/strong\u003e\u003c/p\u003e",
+                                                         "title":  "\u003cp\u003e\u26a0\ufe0f \u003cstrong\u003eAten\u00e7\u00e3o !\u003c/strong\u003e\u003c/p\u003e",
+                                                         "text":  "\u003cp\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eNo nosso Protocolo, voc\u00ea pode ficar tranquilo!\u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003e\u0026nbsp;Nenhum verme ou parasita sair\u00e1 vivo\u003c/strong\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003e de forma inc\u00f4moda.\u0026nbsp;Eles s\u00e3o eliminados \u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003ej\u00e1 mortos e desmanchados, \u003c/strong\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003equase impercept\u00edveis.\u0026nbsp;\u263a\ufe0f\u003c/strong\u003e\u003c/p\u003e",
                                                          "position":  "default",
                                                          "id":  "rLrAuP",
                                                          "name":  "fabjRs",
@@ -3357,7 +3357,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003cp class=\"ql-align-center\"\u003e\u003cbr\u003e\u003c/p\u003e\u003cp class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003eLa desparasitaci\u00f3n se realizar\u00e1 en primer lugar\u003c/strong\u003e\u003cstrong style=\"color: rgb(35, 163, 0);\"\u003e \u003c/strong\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003ea trav\u00e9s de un t\u00e9 de tomate con un ingrediente secreto que se encuentra f\u00e1cilmente en los mercados y es muy poco utilizado.\u003c/strong\u003e\u003c/p\u003e\u003cp class=\"ql-align-center\"\u003e\u003cbr\u003e\u003c/p\u003e",
+                                                         "text":  "\u003cp class=\"ql-align-center\"\u003e\u003cbr\u003e\u003c/p\u003e\u003cp class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003eA Desparasita\u00e7\u00e3o ocorrer\u00e1 primeiramente\u003c/strong\u003e\u003cstrong style=\"color: rgb(35, 163, 0);\"\u003e \u003c/strong\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003eatrav\u00e9s de um ch\u00e1 de tomate com um ingrediente secreto facilmente encontrado nos mercados e pouco utilizado.\u003c/strong\u003e\u003c/p\u003e\u003cp class=\"ql-align-center\"\u003e\u003cbr\u003e\u003c/p\u003e",
                                                          "id":  "2wEh9Z",
                                                          "name":  "KaGZSp"
                                                      }
@@ -3409,7 +3409,7 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "name":  "PGkFZl",
                                                          "type":  "next",
-                                                         "label":  "\u00a1Generar Protocolo de Tratamento! \u2705",
+                                                         "label":  "Gerar Protocolo de Tratamento! \u2705",
                                                          "destination":  "g2rHdX",
                                                          "pulse":  false,
                                                          "target":  false,
@@ -3437,7 +3437,7 @@ window.QUIZ_DATA = {
                                                         "basis":  100
                                                     },
                                          "content":  {
-                                                         "text":  "\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e\ud83e\udd29 Protocolo \u003c/span\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003e\u003cu\u003e\u00a1Generado con \u00c9XITO!\u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e",
+                                                         "text":  "\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e\ud83e\udd29 Protocolo \u003c/span\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003e\u003cu\u003eGerado com SUCESSO!\u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e",
                                                          "id":  "0DaJ5l",
                                                          "name":  "d98AI9"
                                                      },
@@ -3453,7 +3453,7 @@ window.QUIZ_DATA = {
                                                     ],
                                          "content":  {
                                                          "image":  {
-                                                                       "src":  "images/protocolo_listo.png",
+                                                                       "src":  "https://media.inlead.cloud/uploads/23849/2025-10-24/0C0tE-o-seu-protocolo-exclusivo-esta-pronto.webp",
                                                                        "type":  "image",
                                                                        "width":  700,
                                                                        "height":  334
@@ -3472,7 +3472,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch2 class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003eDesinflame la pr\u00f3stata en 14 d\u00edas\u003c/strong\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003e \u00a1con esta bebida casera hecha con solo 2 ingredientes naturales!\u003c/strong\u003e\u003c/h2\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eLa preparaci\u00f3n revelada por especialistas en salud masculina, con las principales hierbas antiinflamatorias y cuidados que ayudan a reducir el volumen de la pr\u00f3stata y mejorar la funci\u00f3n urinaria y sexual \u2014 \u003c/span\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003esin medicamentos, sin cirug\u00edas y con resultados visibles incluso despu\u00e9s de los 40 a\u00f1os\u2026\u003c/strong\u003e\u003c/p\u003e",
+                                                         "text":  "\u003ch2 class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003eDesinche a pr\u00f3stata em 14 dias\u003c/strong\u003e\u003cstrong\u003e com esta bebida caseira feita com apenas 2 ingredientes naturais!\u003c/strong\u003e\u003c/h2\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eA prepara\u00e7\u00e3o revelada por especialistas em sa\u00fade masculina, com as principais ervas anti-inflamat\u00f3rias e cuidados que ajudam a reduzir o volume da pr\u00f3stata e melhorar a fun\u00e7\u00e3o urin\u00e1ria e sexual \u2014 \u003c/span\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003esem rem\u00e9dios, sem cirurgia, e com resultados vis\u00edveis mesmo ap\u00f3s os 40 anos\u2026\u003c/strong\u003e\u003c/p\u003e",
                                                          "id":  "xhpI8m",
                                                          "name":  "LGp4ln"
                                                      },
@@ -3512,19 +3512,19 @@ window.QUIZ_DATA = {
                                                                                "selected":  false,
                                                                                "image":  {
                                                                                              "type":  "image",
-                                                                                             "src":  "images/antes_despues.jpg",
+                                                                                             "src":  "https://media.inlead.cloud/uploads/23849/2025-10-24/mrjBS-antes.webp",
                                                                                              "width":  350,
                                                                                              "height":  350
                                                                                          }
                                                                            },
                                                                            {
                                                                                "id":  "LFPzau",
-                                                                               "text":  "\u003ch3 class=\"ql-align-center\"\u003eDESPU\u00c9S\u003c/h3\u003e",
+                                                                               "text":  "\u003ch3 class=\"ql-align-center\"\u003eDEPOIS\u003c/h3\u003e",
                                                                                "chosen":  false,
                                                                                "selected":  false,
                                                                                "image":  {
                                                                                              "type":  "image",
-                                                                                             "src":  "images/antes_despues.jpg",
+                                                                                             "src":  "https://media.inlead.cloud/uploads/23849/2025-10-24/5HcEO-depois.webp",
                                                                                              "width":  350,
                                                                                              "height":  350
                                                                                          }
@@ -3544,7 +3544,7 @@ window.QUIZ_DATA = {
                                                         "basis":  "47"
                                                     },
                                          "content":  {
-                                                         "text":  "\u003cp class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eEste es usted siendo afectado por los par\u00e1sitos: \u003c/strong\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003ecada d\u00eda con m\u00e1s dificultad para orinar y perdiendo, poco a poco, su rendimiento sexual.\u003c/span\u003e\u003c/p\u003e",
+                                                         "text":  "\u003cp class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eEste \u00e9 voc\u00ea sendo afetado pelos parasitas: \u003c/strong\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003ecada dia mais dif\u00edcil para urinar e perdendo, aos poucos, seu desempenho sexual.\u003c/span\u003e\u003c/p\u003e",
                                                          "id":  "k8AuMM",
                                                          "name":  "xsSBKw"
                                                      },
@@ -3559,7 +3559,7 @@ window.QUIZ_DATA = {
                                                         "basis":  "47"
                                                     },
                                          "content":  {
-                                                         "text":  "\u003cp class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eEste es usted libre de la HPB:\u003c/strong\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e pr\u00f3stata controlada, noches de sue\u00f1o reparador, sin goteos y con el rendimiento sexual de cuando ten\u00eda 25 a\u00f1os.\u003c/span\u003e\u003c/p\u003e",
+                                                         "text":  "\u003cp class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eEsse \u00e9 voc\u00ea livre da HPB:\u003c/strong\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e pr\u00f3stata controlada, noites bem dormidas, sem pinga-pinga e com o desempenho sexual de quando tinha 25 anos.\u003c/span\u003e\u003c/p\u003e",
                                                          "id":  "vsiwIG",
                                                          "name":  "wfrCCG"
                                                      },
@@ -3633,7 +3633,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003cp class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eEscuche el audio. Le explicar\u00e9 \u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003ec\u00f3mo funciona el Protocolo de desinflamaci\u00f3n de la Pr\u00f3stata.\u0026nbsp;\u003c/strong\u003e\u003cstrong\u003e\ud83d\udc47\u003c/strong\u003e\u003c/p\u003e",
+                                                         "text":  "\u003cp class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eEscute o \u00c1udio. Irei te explicar \u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003ecomo funciona o Protocolo desinflama\u00e7\u00e3o da Pr\u00f3stata.\u0026nbsp;\u003c/strong\u003e\u003cstrong\u003e\ud83d\udc47\u003c/strong\u003e\u003c/p\u003e",
                                                          "id":  "DltFF5",
                                                          "name":  "WtQjQC"
                                                      },
@@ -3651,7 +3651,7 @@ window.QUIZ_DATA = {
                                                     },
                                          "content":  {
                                                          "audio":  {
-                                                                       "src":  "audios/audio3_es.mp3",
+                                                                       "src":  "https://media.inlead.cloud/uploads/23849/2025-06-07/j6cfw-audio-3-mari-prostata.mp3",
                                                                        "type":  "audio"
                                                                    },
                                                          "image":  {
@@ -3662,7 +3662,7 @@ window.QUIZ_DATA = {
                                                                    },
                                                          "id":  "3HWmXZ",
                                                          "name":  "Uz29Dz",
-                                                         "sender":  "Dra. Ana Lima"
+                                                         "sender":  "\u00c1udio"
                                                      },
                                          "step":  "g2rHdX"
                                      },
@@ -3675,8 +3675,8 @@ window.QUIZ_DATA = {
                                                         "style":  "white"
                                                     },
                                          "content":  {
-                                                         "title":  "\u003cp\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003eAtenci\u00f3n\u003c/strong\u003e\u003c/p\u003e",
-                                                         "text":  "\u003cp\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eEste protocolo fue cuidadosamente desarrollado para hombres que sufren de pr\u00f3stata agrandada y\u003c/span\u003e \u003cstrong style=\"color: rgb(22, 163, 74);\"\u003ehar\u00edan lo que fuera por recuperar el control de su orina, dormir mejor y sentirse seguros de s\u00ed mismos nuevamente.\u003c/strong\u003e\u003c/p\u003e",
+                                                         "title":  "\u003cp\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003eAten\u00e7\u00e3o\u003c/strong\u003e\u003c/p\u003e",
+                                                         "text":  "\u003cp\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eEste protocolo foi cuidadosamente desenvolvido para homens que sofrem com a pr\u00f3stata aumentada e\u003c/span\u003e \u003cstrong style=\"color: rgb(22, 163, 74);\"\u003efariam de tudo para recuperar o controle da urina, dormir melhor e se sentir confiantes novamente.\u003c/strong\u003e\u003c/p\u003e",
                                                          "position":  "default",
                                                          "id":  "zZ84Qr",
                                                          "name":  "k2UbTW",
@@ -3693,7 +3693,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003cp\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e\u2705 As\u00ed que, si convive con s\u00edntomas como chorro d\u00e9bil, ganas frecuentes de orinar o sensaci\u00f3n de vejiga llena...\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e\u2705 Si ya no puede dormir una noche entera por tener que levantarse al ba\u00f1o...\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e\u2705 O si siente que su rendimiento sexual ya no es el mismo \u2014 y los m\u00e9dicos le dicen que \"es normal para su edad\"...\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eY usted \u003c/span\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eno aguanta m\u00e1s vivir con limitaciones\u003c/strong\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e, con miedo a depender de pa\u00f1ales, sondas o cirug\u00edas\u2026\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e \u003c/span\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eEntonces, el protocolo natural de 14 d\u00edas fue hecho para usted.\u003c/strong\u003e\u003c/p\u003e",
+                                                         "text":  "\u003cp\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e\u2705 Ent\u00e3o, se voc\u00ea convive com sintomas como jato fraco, vontade frequente de urinar ou sensa\u00e7\u00e3o de bexiga cheia...\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e\u2705 Se j\u00e1 n\u00e3o dorme mais uma noite inteira por causa das idas ao banheiro...\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e\u2705 Ou se sente que seu desempenho sexual n\u00e3o \u00e9 mais o mesmo \u2014 e os m\u00e9dicos dizem que \u201c\u00e9 normal para a sua idade\u201d...\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eE voc\u00ea \u003c/span\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003en\u00e3o aguenta mais viver limitado\u003c/strong\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e, com medo de depender de fraldas, sondas ou cirurgia\u2026\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e \u003c/span\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eEnt\u00e3o o protocolo natural de 14 dias foi feito pra voc\u00ea.\u003c/strong\u003e\u003c/p\u003e",
                                                          "id":  "oDYo3s",
                                                          "name":  "1l9NWu"
                                                      },
@@ -3760,10 +3760,10 @@ window.QUIZ_DATA = {
                                                                                            "type":  "image",
                                                                                            "src":  null
                                                                                        },
-                                                                             "label":  "\u003cp\u003e\u2705 Preparaci\u00f3n para desparasitaci\u00f3n - $7.90\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003e\u003cs\u003e\u2705 Prepara\u00e7\u00e3o para desparasita\u00e7\u00e3o - R$37,90\u003c/s\u003e \u003cstrong style=\"color: rgb(22, 163, 74);\"\u003e(HOJE: GR\u00c1TIS)\u003c/strong\u003e\u003c/p\u003e",
                                                                              "destination":  "next",
                                                                              "chosen":  false,
-                                                                             "selected":  false
+                                                                             "selected":  true
                                                                          },
                                                                          {
                                                                              "id":  "v4VCXW",
@@ -3771,10 +3771,10 @@ window.QUIZ_DATA = {
                                                                                            "type":  "image",
                                                                                            "src":  null
                                                                                        },
-                                                                             "label":  "\u003cp\u003e\u2705 Desparasitaci\u00f3n completa - $11.90\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003e\u003cs\u003e\u2705 Desparasita\u00e7\u00e3o completa - R$57,00\u003c/s\u003e \u003cstrong style=\"color: rgb(22, 163, 74);\"\u003e(HOJE: GR\u00c1TIS)\u003c/strong\u003e\u003c/p\u003e",
                                                                              "destination":  "next",
                                                                              "chosen":  false,
-                                                                             "selected":  false
+                                                                             "selected":  true
                                                                          },
                                                                          {
                                                                              "id":  "GmANJv",
@@ -3782,37 +3782,37 @@ window.QUIZ_DATA = {
                                                                                            "type":  "image",
                                                                                            "src":  null
                                                                                        },
-                                                                             "label":  "\u003cp\u003e\u2705 Acompa\u00f1amiento individual - $19.90\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003e\u003cs\u003e\u2705 Acompanhamento Individual R$97,00\u003c/s\u003e \u003cstrong style=\"color: rgb(22, 163, 74);\"\u003e(HOJE: GR\u00c1TIS)\u003c/strong\u003e\u003c/p\u003e",
                                                                              "destination":  "next",
                                                                              "chosen":  false,
-                                                                             "selected":  false
+                                                                             "selected":  true
                                                                          },
                                                                          {
                                                                              "id":  "p3l28t",
-                                                                             "label":  "\u003cp\u003e\u2705 Gu\u00eda alimentaria contra par\u00e1sitos - $5.90\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003e\u003cs\u003e\u2705 Guia alimentar contra parasitas R$27,00\u003c/s\u003e \u003cstrong style=\"color: rgb(22, 163, 74);\"\u003e(HOJE: GR\u00c1TIS)\u003c/strong\u003e\u003c/p\u003e",
                                                                              "chosen":  false,
-                                                                             "selected":  false,
+                                                                             "selected":  true,
                                                                              "destination":  "next"
                                                                          },
                                                                          {
                                                                              "id":  "nRIg7a",
-                                                                             "label":  "\u003cp\u003e\u2705 Resoluci\u00f3n de dudas con el equipo - $5.90\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003e\u003cs\u003e\u2705 Tira duvidas com a equipe R$29,90\u003c/s\u003e \u003cstrong style=\"color: rgb(22, 163, 74);\"\u003e(HOJE: GR\u00c1TIS)\u003c/strong\u003e\u003c/p\u003e",
                                                                              "chosen":  false,
-                                                                             "selected":  false,
+                                                                             "selected":  true,
                                                                              "destination":  "next"
                                                                          },
                                                                          {
                                                                              "id":  "VpBNKT",
-                                                                             "label":  "\u003cp\u003e\u2705 Mantenimiento anual del protocolo - $9.99\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003e\u003cs\u003e\u2705 Manuten\u00e7\u00e3o anual do protocolo R$49,99\u003c/s\u003e \u003cstrong style=\"color: rgb(22, 163, 74);\"\u003e(HOJE: GR\u00c1TIS)\u003c/strong\u003e\u003c/p\u003e",
                                                                              "chosen":  false,
-                                                                             "selected":  false,
+                                                                             "selected":  true,
                                                                              "destination":  "next"
                                                                          },
                                                                          {
                                                                              "id":  "oLn4N3",
-                                                                             "label":  "\u003cp\u003e\u2705 Receta\u0026nbsp;para\u0026nbsp;la\u0026nbsp;desinflamaci\u00f3n\u0026nbsp;de\u0026nbsp;la\u0026nbsp;pr\u00f3stata\u0026nbsp;en\u0026nbsp;14\u0026nbsp;d\u00edas\u0026nbsp;-\u0026nbsp;$19.90\u003c/p\u003e",
+                                                                             "label":  "\u003cp\u003e\u2705 Receita Principal para desinflama\u00e7\u00e3o da pr\u00f3stata em 14 Dias - \u003cs\u003eR$97,00\u003c/s\u003e\u003c/p\u003e",
                                                                              "chosen":  false,
-                                                                             "selected":  false,
+                                                                             "selected":  true,
                                                                              "destination":  "next"
                                                                          }
                                                                      ],
@@ -3831,7 +3831,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch2 class=\"ql-align-center\"\u003e\u003cstrong style=\"background-color: inherit; color: rgb(220, 38, 38);\"\u003e\u003cs\u003eValor total: $79.00\u003c/s\u003e\u003c/strong\u003e\u003c/h2\u003e\u003ch2 class=\"ql-align-center\"\u003e\u003cstrong style=\"background-color: inherit; color: rgb(22, 163, 74);\"\u003ePor solo\u003c/strong\u003e\u003c/h2\u003e\u003ch1 class=\"ql-align-center\"\u003e\u003cstrong style=\"background-color: inherit; color: rgb(22, 163, 74);\"\u003e$\u0026nbsp;7.90\u003c/strong\u003e\u003c/h1\u003e",
+                                                         "text":  "\u003ch2 class=\"ql-align-center\"\u003e\u003cstrong style=\"background-color: inherit; color: rgb(220, 38, 38);\"\u003e\u003cs\u003eValor total: R$395,00\u003c/s\u003e\u003c/strong\u003e\u003c/h2\u003e\u003ch2 class=\"ql-align-center\"\u003e\u003cstrong style=\"background-color: inherit; color: rgb(22, 163, 74);\"\u003eVALOR TOTAL COM TODOS OS B\u00d4NUS:\u003c/strong\u003e\u003c/h2\u003e\u003ch1 class=\"ql-align-center\"\u003e\u003cstrong style=\"background-color: inherit; color: rgb(22, 163, 74);\"\u003eR$\u0026nbsp;37,90\u003c/strong\u003e\u003c/h1\u003e",
                                                          "id":  "Dg45MO",
                                                          "name":  "UY31bF"
                                                      },
@@ -3866,8 +3866,8 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "name":  "btnprostata1",
                                                          "type":  "redirect",
-                                                         "label":  "\u00a1Acceder a mi Protocolo Ahora! \u2705",
-                                                         "destination":  "https://pay.hotmart.com/T106108983K?off=kokbdvu0",
+                                                         "label":  "Acessar meu Protocolo Agora! \u2705",
+                                                         "destination":  "https://checkout.payt.com.br/cd914240b2c733cbb7ae88fb721fcd95",
                                                          "pulse":  false,
                                                          "target":  false,
                                                          "id":  "mIuZiM"
@@ -3883,7 +3883,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003cp class=\"ql-align-center\"\u003e\u003cstrong\u003e\u2705\u0026nbsp;\u003c/strong\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003ePago \u00danico\u003c/strong\u003e\u003c/p\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eSin mensualidades.\u003c/span\u003e\u003c/p\u003e",
+                                                         "text":  "\u003cp class=\"ql-align-center\"\u003e\u003cstrong\u003e\u2705\u0026nbsp;\u003c/strong\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003ePagamento \u00danico\u003c/strong\u003e\u003c/p\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eSem mensalidades.\u003c/span\u003e\u003c/p\u003e",
                                                          "id":  "R5TEju",
                                                          "name":  "BRX5Ur"
                                                      },
@@ -3898,7 +3898,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003cp class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003e\u2705 Acceso Inmediato\u003c/strong\u003e\u003c/p\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e\ufeffAcceso inmediato despu\u00e9s del pago.\u003c/span\u003e\u003c/p\u003e",
+                                                         "text":  "\u003cp class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003e\u2705 Acesso Imediato\u003c/strong\u003e\u003c/p\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e\ufeffAcesso imediato ap\u00f3s o pagamento.\u003c/span\u003e\u003c/p\u003e",
                                                          "id":  "ZuxWA1",
                                                          "name":  "nnL0tR"
                                                      },
@@ -3908,14 +3908,19 @@ window.QUIZ_DATA = {
                                          "id":  "VkT26Q",
                                          "title":  "Imagem",
                                          "icon":  "image",
-                                         "type":  "clear",
+                                         "type":  "image",
                                          "design":  [
 
                                                     ],
                                          "content":  {
-                                                         "name":  "cFW0Ql",
-                                                         "clear":  "h-[0rem]",
-                                                         "id":  "8sCglx"
+                                                         "image":  {
+                                                                       "src":  "https://media.inlead.cloud/uploads/23849/2025-10-24/RYvNF-teste-seguro-180-dias-garantia.webp",
+                                                                       "type":  "image",
+                                                                       "width":  625,
+                                                                       "height":  313
+                                                                   },
+                                                         "id":  "8sCglx",
+                                                         "name":  "cFW0Ql"
                                                      },
                                          "roles":  [
 
@@ -3963,7 +3968,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003cp\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eEn las primeras semanas siguiendo nuestro protocolo, usted va a\u2026\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eSentir que la orina fluye con m\u00e1s facilidad y menos esfuerzo.\u003c/span\u003e\u003c/li\u003e\u003cli\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eDormir mejor, sin tener que levantarse varias veces durante la noche.\u003c/span\u003e\u003c/li\u003e\u003cli\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eNotar el retorno gradual de la libido y de la firmeza en sus relaciones.\u003c/span\u003e\u003c/li\u003e\u003c/ul\u003e",
+                                                         "text":  "\u003cp\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eNas primeiras semanas seguindo nosso protocolo, voc\u00ea vai\u2026\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eSentir a urina fluir com mais facilidade e menos esfor\u00e7o.\u003c/span\u003e\u003c/li\u003e\u003cli\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eDormir melhor, sem precisar levantar v\u00e1rias vezes durante a noite.\u003c/span\u003e\u003c/li\u003e\u003cli\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003ePerceber o retorno gradual da libido e da firmeza nas rela\u00e7\u00f5es.\u003c/span\u003e\u003c/li\u003e\u003c/ul\u003e",
                                                          "id":  "6HbltB",
                                                          "name":  "el1MgU"
                                                      },
@@ -3995,9 +4000,9 @@ window.QUIZ_DATA = {
                                                         "layout":  "horizontal"
                                                     },
                                          "content":  {
-                                                         "title":  "\u003cp\u003e\u003cstrong\u003ePRUEBA DE 180 D\u00cdAS\u003c/strong\u003e\u003c/p\u003e\u003cp\u003esin compromiso\u003c/p\u003e",
-                                                         "value":  "$ 1.58",
-                                                         "before":  "por solo 5x de",
+                                                         "title":  "\u003cp\u003e\u003cstrong\u003eTESTE 180 DIAS\u003c/strong\u003e\u003c/p\u003e\u003cp\u003esem compromisso\u003c/p\u003e",
+                                                         "value":  "R$ 8,27",
+                                                         "before":  "por apenas 5x de",
                                                          "after":  null,
                                                          "redirect":  true,
                                                          "id":  "vvTEko",
@@ -4036,8 +4041,8 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "name":  "btnprostata2",
                                                          "type":  "redirect",
-                                                         "label":  "\u00a1Acceder a mi Protocolo Ahora! \u2705",
-                                                         "destination":  "https://pay.hotmart.com/T106108983K?off=kokbdvu0",
+                                                         "label":  "Acessar meu Protocolo Agora! \u2705",
+                                                         "destination":  "https://checkout.payt.com.br/cd914240b2c733cbb7ae88fb721fcd95",
                                                          "pulse":  false,
                                                          "target":  false,
                                                          "id":  "2k0M0s"
@@ -4071,9 +4076,9 @@ window.QUIZ_DATA = {
                                                          "quotes":  [
                                                                         {
                                                                             "id":  "ACxYe0",
-                                                                            "text":  "Mi pr\u00f3stata med\u00eda 42 cm\u00b3 y yo ni sab\u00eda que eso se consideraba grande. Iba al ba\u00f1o a cada rato, el chorro era d\u00e9bil y me despertaba 3 veces por noche. Despu\u00e9s de seguir el protocolo, me repet\u00ed el examen y mi volumen baj\u00f3 a 28 cm\u00b3. Hoy orino con fuerza, duermo de corrido y hasta mi energ\u00eda regres\u00f3.",
-                                                                            "activity":  "Valpara\u00edso, Chile",
-                                                                            "name":  "Fernando Mart\u00ednez",
+                                                                            "text":  "Minha pr\u00f3stata estava com 42 cm e eu nem sabia que isso era considerado grande. Ia ao banheiro toda hora, o jato era fraco e eu acordava 3 vezes por noite. Ap\u00f3s seguir o protocolo, refiz o exame e meu volume caiu para 28 cm\u00b3. Hoje urino com for\u00e7a, durmo direto e at\u00e9 minha energia voltou.",
+                                                                            "activity":  "Blumenau, SC",
+                                                                            "name":  "Fernado Martins",
                                                                             "rate":  null,
                                                                             "chosen":  false,
                                                                             "selected":  false,
@@ -4102,9 +4107,9 @@ window.QUIZ_DATA = {
                                                          "quotes":  [
                                                                         {
                                                                             "id":  "ACxYe0",
-                                                                            "text":  "Mi pr\u00f3stata med\u00eda 38 cm\u00b3 y los s\u00edntomas eran horribles: chorro d\u00e9bil, ganas constantes de orinar y sensaci\u00f3n de vejiga llena. Hoy mi examen muestra 26 cm\u00b3. Duermo toda la noche de corrido y hasta mi autoestima mejor\u00f3.",
-                                                                            "activity":  "Guadalajara, M\u00e9xico",
-                                                                            "name":  "Diego Ram\u00edrez",
+                                                                            "text":  "Minha pr\u00f3stata media 38 cm\u00b3 e os sintomas eram horr\u00edveis: jato fraco, vontade constante de urinar e sensa\u00e7\u00e3o de bexiga cheia. Hoje meu exame mostra 26 cm\u00b3. Durmo a noite inteira sem levantar e at\u00e9 minha autoestima melhorou.",
+                                                                            "activity":  "S\u00e3o Paulo, RJ",
+                                                                            "name":  "Diego Ramalho",
                                                                             "rate":  null,
                                                                             "chosen":  false,
                                                                             "selected":  false,
@@ -4133,8 +4138,8 @@ window.QUIZ_DATA = {
                                                          "quotes":  [
                                                                         {
                                                                             "id":  "ACxYe0",
-                                                                            "text":  "Mi esposo pas\u00f3 a\u00f1os sufriendo en silencio. Se levantaba varias veces por la noche, andaba irritable, cansado y evitaba incluso los momentos a solas. Yo ve\u00eda c\u00f3mo eso afectaba su autoestima, pero \u00e9l nunca hablaba de eso.\n\nCuando empez\u00f3 el protocolo, confieso que dud\u00e9 un poco... pero en pocos dias vi a mi esposo volver a sonre\u00edr, dormir mejor y recuperar la confianza. Hoy \u00e9l mismo dice que se siente con m\u00e1s energ\u00eda, m\u00e1s ligero y m\u00e1s hombre de nuevo. \u00bfY yo? Me siento casada con el hombre de antes \u2014 o incluso mejor.",
-                                                                            "activity":  "Monterrey, M\u00e9xico",
+                                                                            "text":  "Meu marido passou anos sofrendo calado. Ele levantava v\u00e1rias vezes \u00e0 noite, ficava irritado, cansado, e evitava at\u00e9 os momentos a dois. Eu via o quanto aquilo mexia com a autoestima dele, mas ele nunca falava muito sobre.\n\nQuando ele come\u00e7ou o protocolo, confesso que fiquei com o p\u00e9 atr\u00e1s... mas em poucos dias vi meu marido voltar a sorrir, dormir melhor e recuperar a confian\u00e7a. Hoje ele mesmo diz que se sente mais homem, mais leve e com energia de novo. E eu? Me sinto casada com o homem de antes \u2014 ou at\u00e9 melhor.",
+                                                                            "activity":  "Natal, RN",
                                                                             "name":  "Fernanda Silva",
                                                                             "rate":  null,
                                                                             "chosen":  false,
@@ -4176,7 +4181,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong\u003eTambi\u00e9n recibir\u00e1, de forma gratuita, la \"Gu\u00eda Inquebrantable de la Virilidad Masculina\", con contenidos como:\u003c/strong\u003e\u003c/h3\u003e\u003cul\u003e\u003cli\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eLos principales enemigos ocultos en su rutina diaria que est\u00e1n \u003c/span\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003erobando su libido y su potencia sexual\u003c/strong\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e sin que se d\u00e9 cuenta.\u003c/span\u003e\u003c/li\u003e\u003cli\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eH\u00e1bitos simples y naturales\u003c/strong\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e que ayudan a restaurar el deseo y la firmeza en las relaciones.\u003c/span\u003e\u003c/li\u003e\u003cli\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eC\u00f3mo identificar \u003c/span\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003ese\u00f1ales silenciosas de desequilibrio hormonal\u003c/strong\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e, incluso sin ex\u00e1menes m\u00e9dicos o consultas frecuentes.\u003c/span\u003e\u003c/li\u003e\u003cli\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eEstrategias naturales para \u003c/span\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eaumentar la testosterona\u003c/strong\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e, reducir el estr\u00e9s y \u003c/span\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003erecuperar su confianza como hombre.\u003c/strong\u003e\u003c/li\u003e\u003c/ul\u003e",
+                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong\u003eVoc\u00ea tamb\u00e9m vai receber, de forma gratuita, o \u201cGuia Inabal\u00e1vel da Virilidade Masculina\u201d, com conte\u00fados como:\u003c/strong\u003e\u003c/h3\u003e\u003cul\u003e\u003cli\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eOs principais inimigos ocultos na sua rotina que est\u00e3o \u003c/span\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eroubando sua libido e sua pot\u00eancia sexual\u003c/strong\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e sem que voc\u00ea perceba.\u003c/span\u003e\u003c/li\u003e\u003cli\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eH\u00e1bitos simples e naturais\u003c/strong\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e que ajudam a restaurar o desejo e a firmeza nas rela\u00e7\u00f5es.\u003c/span\u003e\u003c/li\u003e\u003cli\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eComo identificar \u003c/span\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003esinais silenciosos de desequil\u00edbrio hormonal\u003c/strong\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e, mesmo sem exames ou consultas frequentes.\u003c/span\u003e\u003c/li\u003e\u003cli\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eEstrat\u00e9gias naturais para \u003c/span\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eaumentar a testosterona\u003c/strong\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e, reduzir o estresse e \u003c/span\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003erecuperar sua confian\u00e7a como homem.\u003c/strong\u003e\u003c/li\u003e\u003c/ul\u003e",
                                                          "id":  "hoSD5q",
                                                          "name":  "NAN6CU"
                                                      },
@@ -4211,8 +4216,8 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "name":  "btnprostata3",
                                                          "type":  "redirect",
-                                                         "label":  "\u00a1Acceder a mi Protocolo Ahora! \u2705",
-                                                         "destination":  "https://pay.hotmart.com/T106108983K?off=kokbdvu0",
+                                                         "label":  "Acessar meu Protocolo Agora! \u2705",
+                                                         "destination":  "https://checkout.payt.com.br/cd914240b2c733cbb7ae88fb721fcd95",
                                                          "pulse":  false,
                                                          "target":  false,
                                                          "id":  "i358jE"
@@ -4228,7 +4233,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003e\u00a1Tambi\u00e9n recibir\u00e1 un regalo sorpresa, totalmente gratis, al unirse hoy al grupo de hombres que decidieron cuidar de su pr\u00f3stata en este mes de Junio!\u003c/strong\u003e\u003c/h3\u003e",
+                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003eVoc\u00ea tamb\u00e9m vai receber um presente surpresa, totalmente gratuito, ao entrar hoje para o grupo de homens que decidiram cuidar da pr\u00f3stata ainda em Junho de 2025!\u003c/strong\u003e\u003c/h3\u003e",
                                                          "id":  "YT8Euy",
                                                          "name":  "TNGnqh"
                                                      },
@@ -4268,8 +4273,8 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "name":  "btnprostata4",
                                                          "type":  "redirect",
-                                                         "label":  "\u00a1Acceder a mi Protocolo Ahora! \u2705",
-                                                         "destination":  "https://pay.hotmart.com/T106108983K?off=kokbdvu0",
+                                                         "label":  "Acessar meu Protocolo Agora! \u2705",
+                                                         "destination":  "https://checkout.payt.com.br/cd914240b2c733cbb7ae88fb721fcd95",
                                                          "pulse":  false,
                                                          "target":  false,
                                                          "id":  "w89Ekw"
@@ -4293,16 +4298,21 @@ window.QUIZ_DATA = {
                                      },
                                      {
                                          "id":  "I3qPgW",
-                                         "title":  "Texto",
-                                         "icon":  "text",
-                                         "type":  "text",
+                                         "title":  "Imagem",
+                                         "icon":  "image",
+                                         "type":  "image",
                                          "design":  [
 
                                                     ],
                                          "content":  {
-                                                         "name":  "tvRdps",
+                                                         "image":  {
+                                                                       "src":  "https://media.inlead.cloud/uploads/23849/2025-10-24/ZSHq9-seu-risco-e-zero.webp",
+                                                                       "type":  "image",
+                                                                       "width":  625,
+                                                                       "height":  781
+                                                                   },
                                                          "id":  "tgWIi0",
-                                                         "text":  "\u003cdiv class=\u0027checkout-offer-card\u0027 style=\u0027border-color: #16a34a; background-color: #f8fafc; padding: 20px; text-align: center; border: 2px solid #16a34a; border-radius: 12px; margin: 16px 0;\u0027\u003e\u003ch3 style=\u0027color: #16a34a; font-size: 20px; font-weight: 700; margin-bottom: 12px;\u0027\u003e\u0026iexcl;Su riesgo es cero!\u003c/h3\u003e\u003cp style=\u0027font-size: 14px; color: #334155; margin-bottom: 10px;\u0027\u003e\u003cstrong\u003eLa ley de protecci\u0026oacute;n al consumidor garantiza 7 d\u0026iacute;as de garant\u0026iacute;a incondicional.\u003c/strong\u003e\u003c/p\u003e\u003cp style=\u0027font-size: 14px; color: #334155; margin-bottom: 10px;\u0027\u003ePero confiamos tanto en la calidad de nuestro product que la \u003cstrong\u003eextenderemos a 180 d\u0026iacute;as\u003c/strong\u003e.\u003c/p\u003e\u003cp style=\u0027font-size: 14px; color: #334155; margin-bottom: 10px;\u0027\u003eSi cumple con el protocolo y no obtiene resultados, \u003cstrong\u003e\u0026iexcl;le devolveremos su dinheiro sin burocracia!\u003c/strong\u003e\u003c/p\u003e\u003cp style=\u0027font-size: 14px; color: #334155; margin-bottom: 0;\u0027\u003e\u0026iexcl;Haga la prueba sin compromiso!\u003c/p\u003e\u003c/div\u003e"
+                                                         "name":  "tvRdps"
                                                      },
                                          "step":  "g2rHdX"
                                      },
@@ -4330,7 +4340,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003cp\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003e\u00bfCu\u00e1ntas veces ha escuchado que es normal convivir con esto despu\u00e9s de los 40?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eLa verdad es que su cuerpo \u003c/span\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003ea\u00fan responde\u003c/strong\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e \u2014 solo necesita el \u003c/span\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eest\u00edmulo correcto en el momento correcto\u003c/strong\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\ud83c\udf3f Este protocolo natural ya ha ayudado a cientos de hombres a \u003cstrong style=\"color: rgb(9, 9, 11);\"\u003ereducir el volumen de su pr\u00f3stata\u003c/strong\u003e, \u003cstrong style=\"color: rgb(9, 9, 11);\"\u003evolver a orinar con fuerza\u003c/strong\u003e y \u003cstrong style=\"color: rgb(9, 9, 11);\"\u003erecuperar su confianza en la vida sexual\u003c/strong\u003e.\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eY ahora, puede ser su turno.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e\u2728 No acepte que la edad defina su calidad de vida.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eHaga clic en el bot\u00f3n de abajo y comience hoy mismo a retomar el control de su salud masculina.\u003c/span\u003e\u003c/p\u003e",
+                                                         "text":  "\u003cp\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eQuantas vezes voc\u00ea j\u00e1 ouviu que \u00e9 normal conviver com isso depois dos 40?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eA verdade \u00e9 que o seu corpo \u003c/span\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eainda responde\u003c/strong\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e \u2014 ele s\u00f3 precisa do \u003c/span\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003eest\u00edmulo certo no momento certo\u003c/strong\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e\ud83c\udf3f Este protocolo natural j\u00e1 ajudou centenas de homens a \u003c/span\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003ereduzirem o volume da pr\u00f3stata\u003c/strong\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e, \u003c/span\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003evoltarem a urinar com for\u00e7a\u003c/strong\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e e \u003c/span\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003erecuperarem sua confian\u00e7a na vida sexual\u003c/strong\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eE agora, pode ser a sua vez.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003e\u2728 N\u00e3o aceite que a idade defina sua qualidade de vida.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eClique no bot\u00e3o abaixo e comece hoje a retomar o controle da sua sa\u00fade masculina.\u003c/span\u003e\u003c/p\u003e",
                                                          "id":  "JBIEDC",
                                                          "name":  "1KdjT5"
                                                      },
@@ -4365,8 +4375,8 @@ window.QUIZ_DATA = {
                                          "content":  {
                                                          "name":  "btnprostata5",
                                                          "type":  "redirect",
-                                                         "label":  "\u00a1Acceder a mi Protocolo Ahora! \u2705",
-                                                         "destination":  "https://pay.hotmart.com/T106108983K?off=kokbdvu0",
+                                                         "label":  "Acessar meu Protocolo Agora! \u2705",
+                                                         "destination":  "https://checkout.payt.com.br/cd914240b2c733cbb7ae88fb721fcd95",
                                                          "pulse":  false,
                                                          "target":  false,
                                                          "id":  "lL2gyG"

@@ -138,7 +138,7 @@ document.addEventListener("DOMContentLoaded", function() {
                     imgDiv.className = "layer-image";
                     const img = document.createElement("img");
                     img.src = content.image.src;
-                    img.alt = layer.title || "Imagen";
+                    img.alt = layer.title || "Imagem";
                     imgDiv.appendChild(img);
                     wrapper.appendChild(imgDiv);
                 }
@@ -219,6 +219,15 @@ document.addEventListener("DOMContentLoaded", function() {
                     textSpan.className = "option-text";
                     textSpan.innerHTML = opt.label || "";
                     optCard.appendChild(textSpan);
+
+                    // Add initial active state if configured
+                    if (opt.selected || opt.chosen) {
+                        optCard.classList.add("active");
+                        if (isMultiple) {
+                            if (!answers[layer.id]) answers[layer.id] = [];
+                            answers[layer.id].push(opt.id);
+                        }
+                    }
 
                     // Click handler
                     optCard.addEventListener("click", function() {
@@ -345,7 +354,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
                 const senderName = document.createElement("div");
                 senderName.className = "audio-sender";
-                senderName.textContent = content.sender || "Reproductor de Audio";
+                senderName.textContent = content.sender || "Reprodutor de Áudio";
                 audioInfo.appendChild(senderName);
 
                 const timeline = document.createElement("div");
@@ -507,7 +516,7 @@ document.addEventListener("DOMContentLoaded", function() {
                     authInfo.className = "quote-author-info";
                     const authName = document.createElement("span");
                     authName.className = "quote-author-name";
-                    authName.textContent = q.name || "Testimonio";
+                    authName.textContent = q.name || "Depoimento";
                     const authAct = document.createElement("span");
                     authAct.className = "quote-author-activity";
                     authAct.textContent = q.activity || "";
@@ -591,9 +600,6 @@ document.addEventListener("DOMContentLoaded", function() {
                     const argTitle = document.createElement("div");
                     argTitle.className = "argument-title";
                     let titleText = arg.text || "";
-                    if (titleText.includes("DEPOIS")) {
-                        titleText = titleText.replace("DEPOIS", "DESPU\u00C9S");
-                    }
                     argTitle.innerHTML = titleText;
                     argCard.appendChild(argTitle);
 
@@ -623,9 +629,9 @@ document.addEventListener("DOMContentLoaded", function() {
                         argDesc.innerHTML = descLayer.content.text;
                     } else {
                         if (aIdx === 0) {
-                            argDesc.innerHTML = "<p><strong>Este es usted siendo afectado por los par\u00E1sitos:</strong> cada d\u00EDa con m\u00E1s dificultad para orinar y perdiendo, poco a poco, su rendimiento sexual.</p>";
+                            argDesc.innerHTML = "<p><strong>Este é você sendo afetado pelos parasitas:</strong> cada dia com mais dificuldade para urinar e perdendo, aos poucos, seu desempenho sexual.</p>";
                         } else {
-                            argDesc.innerHTML = "<p><strong>Este es usted libre de la HPB:</strong> pr\u00F3stata controlada, noches de sue\u00F1o reparador, sin goteos y con el rendimiento sexual de cuando ten\u00EDa 25 a\u00F1os.</p>";
+                            argDesc.innerHTML = "<p><strong>Este é você livre da HPB:</strong> próstata controlada, noites bem dormidas, sem pinga-pinga e com o desempenho sexual de quando tinha 25 anos.</p>";
                         }
                     }
                     argCard.appendChild(argDesc);
@@ -731,7 +737,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
         const text = document.createElement("div");
         text.className = "loading-text";
-        text.innerHTML = (loadingLayer && loadingLayer.content.description) || "Procesando...";
+        text.innerHTML = (loadingLayer && loadingLayer.content.description) || "Processando...";
         loadWrapper.appendChild(text);
 
         container.appendChild(loadWrapper);

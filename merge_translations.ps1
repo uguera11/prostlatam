@@ -1,5 +1,5 @@
 # merge_translations.ps1
-# Mescla as traduções de quiz_es.json de volta no quiz.json original,
+# Mescla as traduções de quiz_pt.json de volta no quiz.json original,
 # escapa caracteres não-ASCII como \uXXXX para evitar problemas de encoding,
 # e gera quiz_translated.json e quiz_data.js.
 
@@ -50,12 +50,12 @@ if (-not (Test-Path $quizOriginalPath)) {
 }
 $quiz = [System.IO.File]::ReadAllText((Resolve-Path $quizOriginalPath), [System.Text.Encoding]::UTF8) | ConvertFrom-Json
 
-$quizEsPath = "quiz_es.json"
-if (-not (Test-Path $quizEsPath)) {
-    Write-Error "Arquivo de traduções quiz_es.json não encontrado!"
+$quizPtPath = "quiz_pt.json"
+if (-not (Test-Path $quizPtPath)) {
+    Write-Error "Arquivo de traduções quiz_pt.json não encontrado!"
     exit 1
 }
-$translations = [System.IO.File]::ReadAllText((Resolve-Path $quizEsPath), [System.Text.Encoding]::UTF8) | ConvertFrom-Json
+$translations = [System.IO.File]::ReadAllText((Resolve-Path $quizPtPath), [System.Text.Encoding]::UTF8) | ConvertFrom-Json
 
 $count = 0
 foreach ($prop in $translations.psobject.properties) {

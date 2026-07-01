@@ -112,6 +112,12 @@ document.addEventListener("DOMContentLoaded", function() {
         if (hasLoading) {
             handleLoadingStep(step);
         }
+
+        // Load UTMify script only on the last step (PV)
+        const isLastStep = getStepIndex(step.id) === quizData.steps.length - 1;
+        if (isLastStep || step.id === "g2rHdX") {
+            loadUtmifyScript();
+        }
     }
 
     // Render a single layer
@@ -686,8 +692,13 @@ document.addEventListener("DOMContentLoaded", function() {
         if (!destination) return;
 
         if (navType === "redirect" || destination.startsWith("http")) {
-            // Redirect to checkout URL
-            window.location.href = destination;
+            // Redirect to checkout URL, appending current page search params (UTMs)
+            let targetUrl = destination;
+            if (window.location.search) {
+                const separator = targetUrl.includes("?") ? "&" : "?";
+                targetUrl = targetUrl + separator + window.location.search.substring(1);
+            }
+            window.location.href = targetUrl;
         } else if (destination === "next") {
             // Find next step in array
             const currIdx = getStepIndex(currentStepId);
@@ -746,6 +757,20 @@ document.addEventListener("DOMContentLoaded", function() {
         setTimeout(() => {
             handleNavigation("next", dest);
         }, sec * 1000);
+    }
+
+    // Function to dynamically load UTMify script on the sales page (PV)
+    function loadUtmifyScript() {
+        if (window.utmifyLoaded) return;
+        window.utmifyLoaded = true;
+
+        console.log("Loading UTMify script on PV step...");
+        const script = document.createElement("script");
+        script.src = "https://cdn.utmify.com.br/scripts/utms/latest.js";
+        script.setAttribute("data-utmify-prevent-subids", "");
+        script.async = true;
+        script.defer = true;
+        document.head.appendChild(script);
     }
 
     // Set back click listener

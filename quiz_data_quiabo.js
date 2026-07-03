@@ -1,4 +1,4 @@
-{
+window.QUIZ_DATA = {
     "id":  63157,
     "hash":  "6zgcDb",
     "title":  "Prostata - Pagina White",
@@ -208,7 +208,7 @@
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong style=\"background-color: transparent;\"\u003eQual \u00e9 a sua idade?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003eCom o avan\u00e7o da idade, a pr\u00f3stata tende a crescer, um processo natural que leva \u00e0 Hiperplasia Prost\u00e1tica Benigna (HPB). Assim como a menopausa marca a queda da fertility feminina, o aumento da pr\u00f3stata pode comprometer a fun\u00e7\u00e3o urin\u00e1ria e sexual masculina, mesmo em homens que nunca tiveram problemas de sa\u00fade antes.\u003c/p\u003e",
+                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong style=\"background-color: transparent;\"\u003eQual \u00e9 a sua idade?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003eCom o avan\u00e7o da idade, a pr\u00f3stata tende a crescer, um processo natural que leva \u00e0 Hiperplasia Prost\u00e1tica Benigna (HPB). Assim como a menopausa marca a queda da fertilidade feminina, o aumento da pr\u00f3stata pode comprometer a fun\u00e7\u00e3o urin\u00e1ria e sexual masculina, mesmo em homens que nunca tiveram problemas de sa\u00fade antes.\u003c/p\u003e",
                                                          "id":  "InDTeU",
                                                          "name":  "uExhZQ"
                                                      }
@@ -3357,7 +3357,7 @@
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003cp class=\"ql-align-center\"\u003e\u003cbr\u003e\u003c/p\u003e\u003cp class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003eA Desparasita\u00e7\u00e3o ocorrer\u00e1 primeiramente\u003c/strong\u003e\u003cstrong style=\"color: rgb(35, 163, 0);\"\u003e \u003c/strong\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003eatrav\u00e9s de um preparado de quiabo com um ingrediente secreto facilmente encontrado nos mercados e pouco utilizado.\u003c/strong\u003e\u003c/p\u003e\u003cp class=\"ql-align-center\"\u003e\u003cbr\u003e\u003c/p\u003e",
+                                                         "text":  "\u003cp class=\"ql-align-center\"\u003e\u003cbr\u003e\u003c/p\u003e\u003cp class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003eA Desparasita\u00e7\u00e3o ocorrer\u00e1 primeiramente\u003c/strong\u003e\u003cstrong style=\"color: rgb(35, 163, 0);\"\u003e \u003c/strong\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003eatrav\u00e9s do preparado de quiabo com um ingrediente secreto facilmente encontrado nos mercados e pouco utilizado.\u003c/strong\u003e\u003c/p\u003e\u003cp class=\"ql-align-center\"\u003e\u003cbr\u003e\u003c/p\u003e",
                                                          "id":  "2wEh9Z",
                                                          "name":  "KaGZSp"
                                                      }
@@ -3372,7 +3372,7 @@
                                                     ],
                                          "content":  {
                                                          "image":  {
-                                                                       "src":  "images/quiabo_receita.png",
+                                                                       "src":  "https://media.inlead.cloud/uploads/23849/2025-10-23/14tBB-tr5iv-tomate-1504283166629-v2-1920x1276.webp",
                                                                        "type":  "image",
                                                                        "width":  1800,
                                                                        "height":  1196
@@ -4441,4 +4441,4 @@
                           }
             },
     "version":  "v2"
-}
+};

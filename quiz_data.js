@@ -21,7 +21,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch2 class=\"ql-align-center\"\u003e\u003cstrong style=\"background-color: rgb(9, 9, 11); color: rgb(255, 255, 255);\"\u003eURGENTE:\u003c/strong\u003e\u003cstrong\u003e \u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003eTRUQUE NATURAL CASEIRO DE 14 DIAS EST\u00c1 DESINCHANDO A PROSTATA\u003c/strong\u003e\u003cstrong\u003e E ELIMINANDO A HPB NATURALMENTE!\u003c/strong\u003e\u003c/h2\u003e\u003cp class=\"ql-align-center\"\u003eHomens est\u00e3o voltando a \u003cspan style=\"color: rgb(22, 163, 74);\"\u003eurinar com for\u00e7a, dormindo a noite inteira sem levantar e recuperando o desempenho na cama\u003c/span\u003e. Tudo gra\u00e7as a uma simples \u003cspan style=\"color: rgb(22, 163, 74);\"\u003ereceita natural que elimina o parasita\u003c/span\u003e escondido por tr\u00e1s do aumento da pr\u00f3stata.\u003c/p\u003e",
+                                                         "text":  "\u003ch2 class=\"ql-align-center\"\u003e\u003cstrong style=\"background-color: rgb(9, 9, 11); color: rgb(255, 255, 255);\"\u003eURGENTE:\u003c/strong\u003e\u003cstrong\u003e \u003c/strong\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003eESSE TRUQUE CASEIRO COM QUIABO DE 14 DIAS EST\u00c1 DESINCHANDO A PROSTATA\u003c/strong\u003e\u003cstrong\u003e E ELIMINANDO A HPB NATURALMENTE!\u003c/strong\u003e\u003c/h2\u003e\u003cp class=\"ql-align-center\"\u003eHomens est\u00e3o voltando a \u003cspan style=\"color: rgb(22, 163, 74);\"\u003eurinar com for\u00e7a, dormindo a noite inteira sem levantar e recuperando o desempenho na cama\u003c/span\u003e. Tudo gra\u00e7as a uma simples \u003cspan style=\"color: rgb(22, 163, 74);\"\u003ereceita com quiabo que elimina o parasita\u003c/span\u003e escondido por tr\u00e1s do aumento da pr\u00f3stata.\u003c/p\u003e",
                                                          "id":  "MCem9p",
                                                          "name":  "fMlaNe"
                                                      },
@@ -37,7 +37,7 @@ window.QUIZ_DATA = {
                                                     },
                                          "content":  {
                                                          "image":  {
-                                                                       "src":  "https://media.inlead.cloud/uploads/23849/2025-10-23/dC0Db-prostata-normal-x-prostata-aumentada.webp",
+                                                                       "src":  "images/quiabo_sintomas.png",
                                                                        "type":  "image",
                                                                        "width":  1094,
                                                                        "height":  1094
@@ -208,7 +208,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong style=\"background-color: transparent;\"\u003eQual \u00e9 a sua idade?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003eCom o avan\u00e7o da idade, a pr\u00f3stata tende a crescer, um processo natural que leva \u00e0 Hiperplasia Prost\u00e1tica Benigna (HPB). Assim como a menopausa marca a queda da fertilidade feminina, o aumento da pr\u00f3stata pode comprometer a fun\u00e7\u00e3o urin\u00e1ria e sexual masculina, mesmo em homens que nunca tiveram problemas de sa\u00fade antes.\u003c/p\u003e",
+                                                         "text":  "\u003ch3 class=\"ql-align-center\"\u003e\u003cstrong style=\"background-color: transparent;\"\u003eQual \u00e9 a sua idade?\u003c/strong\u003e\u003c/h3\u003e\u003cp class=\"ql-align-center\"\u003eCom o avan\u00e7o da idade, a pr\u00f3stata tende a crescer, um processo natural que leva \u00e0 Hiperplasia Prost\u00e1tica Benigna (HPB). Assim como a menopausa marca a queda da fertility feminina, o aumento da pr\u00f3stata pode comprometer a fun\u00e7\u00e3o urin\u00e1ria e sexual masculina, mesmo em homens que nunca tiveram problemas de sa\u00fade antes.\u003c/p\u003e",
                                                          "id":  "InDTeU",
                                                          "name":  "uExhZQ"
                                                      }
@@ -3357,7 +3357,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003cp class=\"ql-align-center\"\u003e\u003cbr\u003e\u003c/p\u003e\u003cp class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003eA Desparasita\u00e7\u00e3o ocorrer\u00e1 primeiramente\u003c/strong\u003e\u003cstrong style=\"color: rgb(35, 163, 0);\"\u003e \u003c/strong\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003eatrav\u00e9s de um ch\u00e1 de tomate com um ingrediente secreto facilmente encontrado nos mercados e pouco utilizado.\u003c/strong\u003e\u003c/p\u003e\u003cp class=\"ql-align-center\"\u003e\u003cbr\u003e\u003c/p\u003e",
+                                                         "text":  "\u003cp class=\"ql-align-center\"\u003e\u003cbr\u003e\u003c/p\u003e\u003cp class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003eA Desparasita\u00e7\u00e3o ocorrer\u00e1 primeiramente\u003c/strong\u003e\u003cstrong style=\"color: rgb(35, 163, 0);\"\u003e \u003c/strong\u003e\u003cstrong style=\"color: rgb(3, 7, 18);\"\u003eatrav\u00e9s de um preparado de quiabo com um ingrediente secreto facilmente encontrado nos mercados e pouco utilizado.\u003c/strong\u003e\u003c/p\u003e\u003cp class=\"ql-align-center\"\u003e\u003cbr\u003e\u003c/p\u003e",
                                                          "id":  "2wEh9Z",
                                                          "name":  "KaGZSp"
                                                      }
@@ -3372,7 +3372,7 @@ window.QUIZ_DATA = {
                                                     ],
                                          "content":  {
                                                          "image":  {
-                                                                       "src":  "https://media.inlead.cloud/uploads/23849/2025-10-23/14tBB-tr5iv-tomate-1504283166629-v2-1920x1276.webp",
+                                                                       "src":  "images/quiabo_receita.png",
                                                                        "type":  "image",
                                                                        "width":  1800,
                                                                        "height":  1196
@@ -3472,7 +3472,7 @@ window.QUIZ_DATA = {
 
                                                     ],
                                          "content":  {
-                                                         "text":  "\u003ch2 class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003eDesinche a pr\u00f3stata em 14 dias\u003c/strong\u003e\u003cstrong\u003e com esta bebida caseira feita com apenas 2 ingredientes naturais!\u003c/strong\u003e\u003c/h2\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eA prepara\u00e7\u00e3o revelada por especialistas em sa\u00fade masculina, com as principais ervas anti-inflamat\u00f3rias e cuidados que ajudam a reduzir o volume da pr\u00f3stata e melhorar a fun\u00e7\u00e3o urin\u00e1ria e sexual \u2014 \u003c/span\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003esem rem\u00e9dios, sem cirurgia, e com resultados vis\u00edveis mesmo ap\u00f3s os 40 anos\u2026\u003c/strong\u003e\u003c/p\u003e",
+                                                         "text":  "\u003ch2 class=\"ql-align-center\"\u003e\u003cstrong style=\"color: rgb(22, 163, 74);\"\u003eDesinche a pr\u00f3stata em 14 dias\u003c/strong\u003e\u003cstrong\u003e com a bebida de quiabo e mais 1 ingrediente natural!\u003c/strong\u003e\u003c/h2\u003e\u003cp class=\"ql-align-center\"\u003e\u003cspan style=\"color: rgb(9, 9, 11);\"\u003eA prepara\u00e7\u00e3o revelada por especialistas em sa\u00fade masculina, com quiabo e cuidados anti-inflamat\u00f3rios que eliminam os parasitas, ajudam a reduzir o volume da pr\u00f3stata e melhorar a fun\u00e7\u00e3o urin\u00e1ria e sexual \u2014 \u003c/span\u003e\u003cstrong style=\"color: rgb(9, 9, 11);\"\u003esem rem\u00e9dios, sem cirurgia, e com resultados vis\u00edveis mesmo ap\u00f3s os 40 anos\u2026\u003c/strong\u003e\u003c/p\u003e",
                                                          "id":  "xhpI8m",
                                                          "name":  "LGp4ln"
                                                      },
@@ -3810,7 +3810,7 @@ window.QUIZ_DATA = {
                                                                          },
                                                                          {
                                                                              "id":  "oLn4N3",
-                                                                             "label":  "\u003cp\u003e\u2705 Receita Principal para desinflama\u00e7\u00e3o da pr\u00f3stata em 14 Dias - \u003cs\u003eR$97,00\u003c/s\u003e\u003c/p\u003e",
+                                                                             "label":  "\u2705 Receita Principal para desinflama\u00e7\u00e3o da pr\u00f3stata em 14 Dias - \u003cs\u003eR$97,00\u003c/s\u003e",
                                                                              "chosen":  false,
                                                                              "selected":  true,
                                                                              "destination":  "next"
